@@ -95,7 +95,7 @@ SOFTWARE.
 
 .pl-mi /* markup.italic */ {
   color: #333;
-  font-style: italic;
+  font-style: italic;-
 }
 
 .pl-mb /* markup.bold */ {
@@ -121,4 +121,3 @@ SOFTWARE.
 .pl-mo /* meta.output */ {
   color: #1d3e81;
 }
-
