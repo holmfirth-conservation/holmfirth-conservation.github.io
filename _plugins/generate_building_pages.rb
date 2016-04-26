@@ -13,12 +13,14 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'building.html')
       self.data['title'] = "Building #{building['uid']}"
       self.data['building'] = building
+
+      self.data['body'] = building.values.join(" ") # For lunr search
     end
   end
 
   class BuildingPageGenerator < Generator
     safe true
-
+    priority :highest
     def generate(site)
       dir = 'buildings'
       site.data['buildings'].each do |building|
