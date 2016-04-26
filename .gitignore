@@ -3,3 +3,4 @@ Gemfile.lock
 .ruby-version
 .sass-cache
 _site
+.byebug_history
