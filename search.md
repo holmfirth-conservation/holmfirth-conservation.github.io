@@ -4,7 +4,7 @@ title: Search
 permalink: /search/
 ---
 
-<form action="/search" method="get">bdata
+<form class="pure-form" action="/search" method="get">
 
   <input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
 </form>
