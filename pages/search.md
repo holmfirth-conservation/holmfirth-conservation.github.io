@@ -2,6 +2,8 @@
 layout: page
 title: Search
 permalink: /search/
+menu_position: 5
+
 ---
 
 <form class="pure-form" action="/search" method="get">

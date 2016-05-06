@@ -9,7 +9,8 @@
             <a class="pure-menu-heading" href="/">Home</a>
 
             <ul class="pure-menu-list">
-              {% for my_page in site.pages %}
+              {% assign pages = site.pages | sort:"menu_position" %}
+              {% for my_page in pages %}
                 {% if my_page.title and my_page.category != 'building' and my_page.url != '/' %}
               <li class="pure-menu-item{% if my_page.url == page.url %} pure-menu-selected{% endif %}">
                 <a href="{{ my_page.url | prepend: site.baseurl }}" class="pure-menu-link">
