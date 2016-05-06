@@ -6,12 +6,12 @@
 
     <div id="menu">
         <div class="pure-menu">
-            <a class="pure-menu-heading" href="/">{{ site.title }}</a>
+            <a class="pure-menu-heading" href="/">Home</a>
 
             <ul class="pure-menu-list">
               {% for my_page in site.pages %}
                 {% if my_page.title and my_page.category != 'building' and my_page.url != '/' %}
-              <li class="pure-menu-item">
+              <li class="pure-menu-item{% if my_page.url == page.url %} pure-menu-selected{% endif %}">
                 <a href="{{ my_page.url | prepend: site.baseurl }}" class="pure-menu-link">
                   {% if my_page.menu_title %}
                     {{ my_page.menu_title }}
