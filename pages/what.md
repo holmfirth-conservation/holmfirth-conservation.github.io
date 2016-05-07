@@ -1,12 +1,14 @@
 ---
-layout: page-with-image
-title: What is a conservation area?
-permalink: /what-is-a-conservation-area/
+layout: page
+title: What is the Holmfirth Conservation Area?
+permalink: /what-is-holmfirth-conservation-area/
 menu_title: What?
-image: interest-areas.png
 menu_position: 1
 
 ---
+
+<iframe width="100%" height="520" frameborder="0" src="https://sebbacon.cartodb.com/viz/8392034e-ff43-11e5-9ddd-0e3a376473ab/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 
 Explanation of what a conservation area is.
 
