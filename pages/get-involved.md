@@ -12,7 +12,7 @@ in touch `(contact details needed)`.
 
 Use the form below to join our mailing list. You'll receive occasional newsletters and information about upcoming meetings.
 
-our [Facebook page](https://www.facebook.com/holmfirthconservation) for snippets of local information.
+Visit (and like!) our [Facebook page](https://www.facebook.com/holmfirthconservation) for snippets of local information and brief updates.
 
 
 <!-- Begin MailChimp Signup Form -->

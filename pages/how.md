@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How?
+title: How will the appraisal be carried out?
 permalink: /how
 menu_position: 3
 
