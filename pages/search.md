@@ -6,7 +6,7 @@ menu_position: 5
 
 ---
 
-Currently not working
+Currently not working.
 
 <form class="pure-form" action="/search" method="get">
 
