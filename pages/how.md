@@ -2,6 +2,7 @@
 layout: page
 title: How will the appraisal be carried out?
 permalink: /how
+menu_title: How?
 menu_position: 3
 
 ---
