@@ -6,6 +6,8 @@ menu_position: 5
 
 ---
 
+Currently not working
+
 <form class="pure-form" action="/search" method="get">
 
   <input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
