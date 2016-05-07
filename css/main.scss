@@ -1,0 +1,59 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+$red: #dc4e00;
+$darkgrey: #929487;
+$medgrey: #c7c9be;
+$lightgrey: #f4f5ed;
+$blue: #89cede;
+
+
+#menu {
+  background: $lightgrey;
+}
+
+body {
+  color: black;
+}
+
+#menu a {
+  color: black;
+}
+
+#menu .pure-menu li a:hover,
+#menu .pure-menu li a:focus {
+  background: $medgrey;
+}
+
+#menu .pure-menu ul, #menu .pure-menu .menu-item-divided {
+  border-top: 0;
+}
+
+#menu .pure-menu-selected {
+  background: $blue;
+}
+
+#menu .pure-menu-heading {
+  background: $red;
+}
+
+#menu .pure-menu-selected a {
+  color: #fff;
+}
+
+#menu .pure-menu-heading {
+  font-size: 110%;
+  color: #fff;
+  margin: 0;
+}
+
+.pure-g > div {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.l-box {
+  padding: 1em;
+}
