@@ -18,12 +18,12 @@ The following map shows the conservation area, which we have subdivided into sev
 
 ## What makes Holmfirth worthy of conservation status?
 
-Its status as a conservation area was a recognition back in 1972 when its qualities as a pennine mill town, little changed since late Georgian early Victorian times, set in a dramatic valley with steep sloping sides on which the domestic architecture with its roofscape of stone slates and chimneys ,were a key feature.
+Its status as a conservation area was a recognised back in 1972 when its qualities as a pennine mill town, little changed since late Georgian early Victorian times, set in a dramatic valley with steep sloping sides on which the domestic architecture with its roofscape of stone slates and chimneys ,are a key feature.
 
 ## What are the duties of a local authority towards a conservation area?
 
 Central government requires all local authorities to conduct an appraisal of all its conservation areas.
 
-A formal appraisal has never been done of Holmfirth because of the lack of resources – a conservation appraisal is a costly exercise in terms of manpower and funds – and Holmfirth is a large densely built area of 0.5 sq km with approximately 550 buildings and 38 grade ii listed buildings and monuments.
+A formal appraisal has never been done of Holmfirth because of the lack of resources – a conservation appraisal is a costly exercise in terms of manpower and funds – and Holmfirth is a large densely built area of 0.5 sq km with approximately 550 buildings and 38 grade II listed buildings and monuments.
 
 An appraisal is not only required of Holmfirth’s built environment but also of all its parks, open spaces, roadscape, and trees.
