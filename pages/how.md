@@ -37,9 +37,9 @@ Consultation will again take place at a public meeting and amendment made to ens
 
 * We have had meetings with Hebden Bridge Partnership whose history goes back to the 1960’s. With a wide membership and grant funding the partnership has achieved great things in conserving and enhancing the area.The partnership has been an inspiration to the group to press on in the face of many dead-ends.
 
-* We have studied online conservation appraisals by different authorities including a number undertaken by Kirklees and reviewed the guidance given by Historic England.(There are 60 conservation areas in Kirkless of which 20 have been appraised)
+* We have studied online conservation appraisals by different authorities including a number undertaken by Kirklees and reviewed the guidance given by Historic England.(There are 60 conservation areas in Kirkless of which only 20 have been appraised)
 
-* A number of heritage organisations have been consulted incluing Maintain Our Heritage who have been particularly helpful when it has come to the understand the threats to features of historic buildings.
+* A number of heritage organisations have been consulted incluing [Maintain Our Heritage](http://www.maintainourheritage.co.uk) who have been particularly helpful when it has come to the understand the threats to features of historic buildings.
 
 * Bradford City Council were particularly helpful in sharing with us how they conducted their appraisal of architectual authenticity.  We will be using the same methodologys for our authenticity survey.
 
