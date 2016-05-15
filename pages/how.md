@@ -28,7 +28,7 @@ Click [here](#) to see an example of the buildings survey form.
 * The action points will form the management plan and be part of the appraisal
 
 ## The Appraisal
-* The draft appraisal will be presented to the community at a public meeting and be available for comment on line
+* The draft appraisal will be presented to the community at a public meeting and be available for comment on line.
 Consultation will again take place at a public meeting and amendment made to ensure a shared vision
 * The final appraisal will be presented to Kirklees Planning Deaprtment and to The Holme Valley Parish Council with a view to the document being adopted as part of the Local Plan.
 
@@ -39,7 +39,7 @@ Consultation will again take place at a public meeting and amendment made to ens
 
 * We have studied online conservation appraisals by different authorities including a number undertaken by Kirklees and reviewed the guidance given by Historic England.(There are 60 conservation areas in Kirkless of which only 20 have been appraised)
 
-* A number of heritage organisations have been consulted incluing [Maintain Our Heritage](http://www.maintainourheritage.co.uk) who have been particularly helpful when it has come to the understand the threats to features of historic buildings.
+* A number of heritage organisations have been consulted including [Maintain Our Heritage](http://www.maintainourheritage.co.uk) who have been particularly helpful when it has come to the understand the threats to features of historic buildings.
 
 * Bradford City Council were particularly helpful in sharing with us how they conducted their appraisal of architectual authenticity.  We will be using the same methodologys for our authenticity survey.
 
