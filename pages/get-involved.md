@@ -8,7 +8,7 @@ menu_position: 4
 ---
 
 We're always looking for volunteers. If you'd like to help, please get
-in touch. [email](Holmfirthconservation@outlook.com)
+in touch. [email]
 
 Use the form below to join our mailing list. You'll receive occasional newsletters and information about upcoming meetings.
 
