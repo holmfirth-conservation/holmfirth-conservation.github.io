@@ -17,13 +17,13 @@ The group was formally constituted in February 2016 but we are currently conside
 
 ## Partnership
 
-Holmfirth Conservation Group (HCG) is committed to involving  all groups and interested parties.  We currently work closely with Holme Valley Vision (HVV), River 2015, HEAD (local business association) and Keep Holmfirth Special.  We will be working with a Duke of Edinburgh Award group based at Honley High School and we wish to extend to other adult and youth groups in the town.
+Holmfirth Conservation Group (HCG) is committed to involving  all groups and interested parties.  We currently work closely with Holme Valley Vision (HVV), [River 2015](http://river2015.org/rwp/), [HEAD](http://www.holmfirthhead.co.uk) (local business association) and Keep Holmfirth Special.  We will be working with a Duke of Edinburgh Award group based at Honley High School and we wish to extend to other adult and youth groups in the town.
 
 HCG believes that community involvement is the most powerful tool we have to conserve and enhance our town.
 
 We are committed to good communication with all interested parties and we constantly look at new ways of reaching out so that the group is representative of the wider community.  To this end, we have regular newsletters, a facebook page and this website which will be regularly updated to reflect the work and progress.
 
-Holme Valley Parish Council is currently working on its statutory duty to write a Local Neighbourhood Plan.  HCG is working closely with the Parish Council – two parish councillors are part of the team – and our data will be used to inform the Neighbourhood Plan.  HCG along with other groups in Holmfirth are members of the steering group for the Neighbourhood Plan.
+[Holme Valley Parish Council](http://www.holmevalleyparishcouncil.gov.uk) is currently working on its statutory duty to write a Local Neighbourhood Plan.  HCG is working closely with the Parish Council – two parish councillors are part of the team – and our data will be used to inform the Neighbourhood Plan.  HCG along with other groups in Holmfirth are members of the steering group for the Neighbourhood Plan.
 
 ## Community Involvement
 
