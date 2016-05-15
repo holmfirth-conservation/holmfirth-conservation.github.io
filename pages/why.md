@@ -10,7 +10,7 @@ menu_position: 2
 ## Why is the community conducting the appraisal itself?
 
 * Principally because Kirklees does not have the resources
-* Although protecting the unique characteristics of a conservation area is enshrined in defined duties of LA’s by central government, and is overseen by Historic England – these requirements are frequently ignored.
+* Although protecting the unique characteristics of a conservation area is enshrined in defined duties of LA’s by central government, and is overseen by [Historic England](https://historicengland.org.uk/advice/planning/conservation-areas/) – these requirements are frequently ignored.
 * The historic significance of the town is gradually being eroded because of poor planning decisions. Indeed,in 2009 Holmfirth was designated a conservation area "risk" by Historic England
 * Kirklees will have to take notice of an appraisal of Holmfirth whenever considering planning applications.
 * The power of the community working together to produce the appraisal and management plan with a shared understanding of what we value and how we want Holmfirth to develop will be a powerful tool which cannot be ignored.
