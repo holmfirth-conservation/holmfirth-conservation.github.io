@@ -42,7 +42,7 @@ Consultation will again take place at a public meeting and amendment made to ens
 * With regards to digital mapping – we have approached a highly regarded consultant with expertise in this field who is using GIS mapping software to provide a graphic interface for our data analysis. This consultant is also developing and hosting for two years an interactive website for HCG. As a result of his experiences we have the data for trees with a TPO which includes the species which has been entered onto GIS system saving a great deal of time on identification and mapping.
 * Now that we have the endorsement of Historic England and Kirklees Planning Department of our survey forms we are ready to proceed.
 
-## Minutes of meetings
+## Newsletters
 
-* [April Newsletter](/files/april_newsletter.docx)
+* [May Newsletter](/files/maynewsletter.docx)
 
