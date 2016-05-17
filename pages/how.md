@@ -44,5 +44,5 @@ Consultation will again take place at a public meeting and amendment made to ens
 
 ## Newsletters
 
-* [May Newsletter](/files/maynewsletter.docx)
+* [May Newsletter](https://github.com/holmfirth-conservation/holmfirth-conservation.github.io/blob/master/files/maynewsletter.docx)
 
