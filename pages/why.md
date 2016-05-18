@@ -9,11 +9,11 @@ menu_position: 2
 
 ## Why is the community conducting the appraisal itself?
 
-* Principally because Kirklees does not have the resources
-* Although protecting the unique characteristics of a conservation area is enshrined in defined duties of LA’s by central government, and is overseen by [Historic England](https://historicengland.org.uk/advice/planning/conservation-areas/) – these requirements are frequently ignored.
-* The historic significance of the town is gradually being eroded because of poor planning decisions. Indeed,in 2009 Holmfirth was designated a conservation area "At risk" by Historic England
-* Kirklees will have to take notice of an appraisal of Holmfirth whenever considering planning applications.
-* The power of the community working together to produce the appraisal and management plan with a shared understanding of what we value and how we want Holmfirth to develop will be a powerful tool which cannot be ignored.
+
+* Although protecting the unique characteristics of a conservation area is enshrined in defined duties of LA’s by central government, and is overseen by [Historic England](https://historicengland.org.uk/advice/planning/conservation-areas/) – Kirklees Council do not the resources to conduct an appraisal at this time.
+* The historic significance of the town is gradually being eroded. Indeed,in 2009 Holmfirth was designated a conservation area "At risk" by Historic England
+* A conservation appraisal of Holmfirth will provide a greater focus on planning applications to ensure conservation objectives are met. 
+* The power of the community working together to produce the appraisal and management plan with a shared understanding of what we value and how we want Holmfirth to develop.
 
 ## What are the implications for a property owner?
 
@@ -22,7 +22,7 @@ menu_position: 2
 
 ## What are the advantages?
 
-* Kirklees will have to consider the contents of the appraisal when considering any future planning applications
+* The contents of the appraisal will have to be considered any future planning applications
 * The community of Holmfirth will have a shared understanding of its conservation area and its obligations to preserve and enhance it.
-* The community of Holmfirth will have worked together to produce a management plan to preserve and enhance
+* The community of Holmfirth will have worked together to produce a management plan to preserve and enhance Holmfirth's heretage.
 * Holmfirth Conservation Town will be able to apply for funding to realize its aims and objectives.
