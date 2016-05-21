@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Get involved
+title: Contact us
 permalink: /get-involved
-menu_title: Get involved
+menu_title: Contact us
 menu_position: 4
 
 ---
