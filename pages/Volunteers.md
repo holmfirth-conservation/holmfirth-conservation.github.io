@@ -2,7 +2,7 @@
 layout: page
 title: Volunteering
 permalink: /Volunteering
-menu_title: volunteering
-menu_position: 7
+menu_title: Volunteering
+menu_position: 8
 
 ---
