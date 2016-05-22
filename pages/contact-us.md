@@ -3,7 +3,7 @@ layout: page
 title: Contact us
 permalink: /contact-us.md
 menu_title: Contact us
-menu_position: 4
+menu_position: 6
 
 ---
 
