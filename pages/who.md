@@ -29,6 +29,6 @@ We are committed to good communication with all interested parties and we consta
 
 This is essential to ensure an effective successful outome.  Trustees, members and volunteers will work together to conduct the survey and decide on the points of action for the management plan.  There will be regular open meetings to report and to obtain the community’s views of progress and strategy.
 
-At the present moment we rely on the goodwill of individuals and groups.  Besides what the team contributes, experts and consultants in their fields have advised on design of survey forms, the use GIS software (essential for displaying data in layered graphical form which is easy to read and inform) and the devellopment of an interactive website. HEAD ((Holmfirth Enterprise and Development) and Keep Holmfirth Special have generously provided us with funds to enable us to hold our open meetings.
+At the present moment we rely on the goodwill of individuals and groups.  Besides what the team contributes, experts and consultants in their fields have advised on design of survey forms, the use GIS software (essential for displaying data in layered graphical form which is easy to read and inform) and the development of an interactive website. HEAD ((Holmfirth Enterprise and Development) and Keep Holmfirth Special have generously provided us with funds to enable us to hold our open meetings.
 
 We are currently looking for grants and funds by applying to local companies.
