@@ -9,7 +9,6 @@ menu_position: 3
 
 ## The survey
 
-Click [here](#) to see an example of the buildings survey form.
 
 * Each building will be photographed and given a unique reference
 * The survey is designed to be quick and easy to use by the surveyor, and easily accessible by the data input team
@@ -40,7 +39,7 @@ Consultation will again take place at a public meeting and amendment made to ens
 * A number of heritage organisations have been consulted including [Maintain Our Heritage](http://www.maintainourheritage.co.uk) who have been particularly helpful when it has come to the understand the threats to features of historic buildings.
 * Bradford City Council were particularly helpful in sharing with us how they conducted their appraisal of architectual authenticity.  We will be using the same methodologys for our authenticity survey.
 * With regards to digital mapping – we have approached a highly regarded consultant with expertise in this field who is using GIS mapping software to provide a graphic interface for our data analysis. This consultant is also developing and hosting for two years an interactive website for HCG. As a result of his experiences we have the data for trees with a TPO which includes the species which has been entered onto GIS system saving a great deal of time on identification and mapping.
-* Now that we have the endorsement of Historic England and Kirklees Planning Department of our survey forms we are ready to proceed.
+* Historic England and Kirklees Planning Department have viewed our survey forms and with their encouragment, we are now ready to proceed.
 
 ## Newsletters
 
