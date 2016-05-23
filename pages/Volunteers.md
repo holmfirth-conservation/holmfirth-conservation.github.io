@@ -52,4 +52,4 @@ Firstly, we ask you to let us know by email.  We will then invite you to attend 
     No the data input is entered by another team
 
 * Do I need my own camera?  
-    Photographs will support each survey, so you if you have a camera this would be helpful but not essential. A loan camera may be available for volunteer use. 
+    Photographs will support each survey, so if you have a camera this would be helpful but not essential. A loan camera may be available for volunteer use. 
