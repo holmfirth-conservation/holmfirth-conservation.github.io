@@ -24,5 +24,5 @@ menu_position: 2
 
 * The contents of the appraisal will have to be considered in any future planning applications
 * The community of Holmfirth will have a shared understanding of its conservation area and its obligations to preserve and enhance it.
-* The community of Holmfirth will have worked together to produce a management plan to preserve and enhance Holmfirth's heretage.
+* The community of Holmfirth will have worked together to produce a management plan to preserve and enhance Holmfirth's heritage.
 * Holmfirth Conservation Town will be able to apply for funding to realize its aims and objectives.
