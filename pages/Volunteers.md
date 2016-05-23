@@ -38,16 +38,16 @@ Firstly, we ask you to let us know by email.  We will then invite you to attend 
 ## Frequently Asked Questions
 
 * Do I need any previous skills or experience?  
-No.  You will receive training
+    No.  You will receive training
 
 * How much time am I expected to commit?  
-There is no expected time limit.  However little, it will be valued
+    There is no expected time limit.  However little, it will be valued
 
-* Do I need my own transport?
-The area is 0.5 sq. Km, so it is all within walking distance
+* Do I need my own transport?  
+    The area is 0.5 sq. Km, so it is all within walking distance
 
-* Do I need to be good with IT?
-No the data input is entered by another team
+* Do I need to be good with IT?  
+    No the data input is entered by another team
 
-* Do I need my own camera?
-Photographs will support each survey, so you if you have a camera this would be helpful but not essential. A loan camera may be available for volunteer use. 
+* Do I need my own camera?  
+    Photographs will support each survey, so you if you have a camera this would be helpful but not essential. A loan camera may be available for volunteer use. 
