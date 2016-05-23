@@ -37,10 +37,10 @@ Firstly, we ask you to let us know by email.  We will then invite you to attend 
 
 ## Frequently Asked Questions
 
-* Do I need any previous skills or experience?
+* Do I need any previous skills or experience?  
 No.  You will receive training
 
-* How much time am I expected to commit?
+* How much time am I expected to commit?  
 There is no expected time limit.  However little, it will be valued
 
 * Do I need my own transport?
