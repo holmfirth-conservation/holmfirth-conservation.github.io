@@ -6,10 +6,6 @@ menu_title: Want to become a survey volunteer?
 menu_position: 5
 
 ---
-# Want to become a survey volunteer?
-
-
-
 
 ## What does the role involve?
 
