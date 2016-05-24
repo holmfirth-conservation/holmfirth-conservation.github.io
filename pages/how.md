@@ -34,14 +34,14 @@ menu_position: 3
 
 ## Informing the Process
 
-* We have had meetings with Hebden Bridge Partnership whose history goes back to the 1960’s. With a wide membership and grant funding the partnership has achieved great things in conserving and enhancing the area.The partnership has been an inspiration to the group to press on in the face of many dead-ends.
+* We have had meetings with [Hebden Bridge Partnership](http://hbpartnership.org.uk) whose history goes back to the 1960’s. With a wide membership and grant funding the partnership has achieved great things in conserving and enhancing the area.The partnership has been an inspiration to the group to press on in the face of many dead-ends.
 * We have studied online conservation appraisals by different authorities including a number previously undertaken by Kirklees and reviewed the guidance given by Historic England. We have met with Kirlees planning department and Holmfirth Parish council to brief them on our progress.
-* A number of heritage organisations have been consulted including [Maintain Our Heritage](http://www.maintainourheritage.co.uk) who have been helpful when it has come to the understand the threats to features of historic buildings.
-* Bradford City Council were particularly helpful in sharing with us how they conducted their appraisal of architectual authenticity.  We will be using the same methodologys for our authenticity survey.
+* A number of heritage organisations have been consulted including [Maintain Our Heritage](http://www.maintainourheritage.co.uk) who have been helpful when it has come to the understand the threats to features of historic buildings. If funds become available HCG may organise a community traing day led by Maintain Our Heritage.
+* Bradford City Council were particularly helpful in sharing with us how they conducted their appraisal of architectual authenticity.  We will be using the same methodology for our authenticity survey.
 * With regards to digital mapping – we have approached a highly regarded consultant with expertise in this field who is using GIS mapping software to provide a graphic interface for our data analysis. This consultant is also developing and hosting for two years an interactive website for HCG. As a result of his experiences we have the data for trees with a TPO which includes the species which has been entered onto GIS system saving a great deal of time on identification and mapping.
 * Historic England and Kirklees Planning Department have viewed our survey forms and with their encouragment, we are now ready to proceed.
 
 ## Newsletters
 
-* [May Newsletter](https://github.com/holmfirth-conservation/holmfirth-conservation.github.io/blob/master/files/maynewsletter.docx)
+* [May Newsletter]()
 
