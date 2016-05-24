@@ -17,7 +17,7 @@ menu_position: 2
 
 ## What are the implications for a property owner?
 
-* There are development controls which are often ignored by owners who don’t know they live in a conservation area or they choose to ignore it, and by Kirklees because they don’t have an appraisal to inform them or the resources to enforce it.
+* There are development controls which are often ignored by owners who don’t know they live in a conservation area or they choose to ignore it, and by Kirklees because they don’t have an appraisal to inform them or the resources to enforce it. Reinstatatment of featuresis encourged when maintenance to the property becomes necessary.
 
 
 ## What are the advantages?
