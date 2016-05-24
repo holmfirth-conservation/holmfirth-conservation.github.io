@@ -28,7 +28,7 @@ menu_position: 3
 
 ## The Appraisal
 * The draft appraisal with the management plan will will be presented to the community at a public meeting and be available for comment on line.
-* The final appraisal with the management plan will become part of the Neighbourhood plan beiing developed by Holme Valley Parish Council
+* The final appraisal together with the management plan will become part of the Neighbourhood plan beiing developed by Holme Valley Parish Council
 * The appraisal will be presented to Kirklees council for adoption and will inform future planning. 
 
 
