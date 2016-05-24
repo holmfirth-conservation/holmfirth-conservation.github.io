@@ -43,5 +43,5 @@ menu_position: 3
 
 ## Newsletters
 
-* [May Newsletter]()
+* [May Newsletter](/files/maynewsletter.pdf)
 
