@@ -38,6 +38,8 @@ Firstly, we ask you to let us know by email.  We will then invite you to attend 
 All organistions are required to have policues relating to volunteering and you can view ours here:-
 
 [Voluteers Policy](/files/VolunteeringPolicy.pdf)
+[Heath and safty](/files/healthandsafetypolicy.pdf)
+[Equal Opportunities](/files/equalopportunitiespolicy.pdf)
 
 ## Frequently Asked Questions
 
