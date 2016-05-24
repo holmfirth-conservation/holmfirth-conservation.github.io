@@ -27,6 +27,6 @@ Its status as a conservation area was a recognised back in 1972 when its qualiti
 The Planning (Listed Buildings and Conservation Areas) Act 1990 (‘the Act’) defines conservation areas as: “areas of special architectural or historic interest the character or appearance of which it is desirable to preserve or enhance”
 The Act requires all local authorities to conduct an appraisal of all its conservation areas. 
 
-A formal appraisal has never been done of Holmfirth because of the lack of resources – a conservation appraisal is a costly exercise in terms of manpower and funds – and Holmfirth is a large densely built area of 0.5 sq km with approximately 550 buildings and 38 grade II listed buildings and monuments.
+A formal appraisal has never been done of Holmfirth because of the lack of resources – a conservation appraisal is a costly exercise in terms of manpower and funds – and Holmfirth is a large densely built area of 0.5 sq km with approximately 550 buildings and 38 grade II listed buildings and monuments. We are therefore relying on our community of voluteers to drive this project.
 
 An appraisal is not only required of Holmfirth’s built environment but also of all its parks, open spaces, roadscape, and trees.
