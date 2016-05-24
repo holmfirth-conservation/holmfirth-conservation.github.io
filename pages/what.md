@@ -20,7 +20,7 @@ This is an interactive map. If you click on the "Visible Layers" icon you will s
 
 ## What makes Holmfirth worthy of conservation status?
 
-Its status as a conservation area was a recognised back in 1972 when its qualities as a pennine mill town, little changed since late Georgian early Victorian times, set in a dramatic valley with steep sloping sides on which the domestic architecture with its roofscape of stone slates and chimneys, is a key feature.
+Its status as a conservation area was a recognised back in 1972 when its qualities as a pennine mill town, little changed since late Georgian early Victorian times, set in a dramatic valley with steep sloping sides on which the domestic architecture with its roofscape of stone slates and chimneys, is a key feature. However it has changed consideraly since 1972. Many of the remaining mill buildings have been demolished. Today Holmfirth is mostly defined by it's surviving domestic and commercial vernacular achitecture, particularly in the "old Town". A glance at the map shows the number of listed buildings in this identity area.  This is why we need to conduct the appraisal and preserve what remains.
 
 ## What are the duties of a local authority towards a conservation area?
 
