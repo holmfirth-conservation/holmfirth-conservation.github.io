@@ -13,7 +13,7 @@ We are currently a team of five people with different skills and experiences ran
 
 ## Our constitution
 
-The group was formally constituted in February 2016 but we are currently considering becoming a CIO (Charitable Incorporated Organisation).  We intend to widen our membership so that anyone or any group with an interest in Holmfirth can become members with voting rights on the trustees/committee members and decisions made at AGM or public meetings
+The group was formally [constituted](/files/HCGconstitution.pdf) in February 2016 but we are currently considering becoming a CIO (Charitable Incorporated Organisation).  We intend to widen our membership so that anyone or any group with an interest in Holmfirth can become members with voting rights on the trustees/committee members and decisions made at AGM or public meetings
 
 ## Partnership
 
