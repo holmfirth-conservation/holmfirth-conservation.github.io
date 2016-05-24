@@ -19,7 +19,7 @@ The group was formally constituted in February 2016 but we are currently conside
 
 Holmfirth Conservation Group (HCG) is committed to involving  all groups and interested parties.  We currently work closely with Holme Valley Vision (HVV), [River 2015](http://river2015.org/rwp/), [HEAD](http://www.holmfirthhead.co.uk) (local business association) and Keep Holmfirth Special.  We will be working with a Duke of Edinburgh Award group based at Honley High School and we wish to extend to other adult and youth groups in the town.
 
-HCG believes that community involvement is the most powerful tool we have to conserve and enhance our town.
+HCG believes that community involvement is the most powerful tool we have to preserve and enhance our town.
 
 We are committed to good communication with all interested parties and we constantly look at new ways of reaching out so that the group is representative of the wider community.  To this end, we have regular newsletters, [a facebook page](https://www.facebook.com/holmfirthconservation) and this website which will be regularly updated to reflect the work and progress.
 
