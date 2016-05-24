@@ -33,6 +33,11 @@ No previous experience is necessary as full training will be given and someone w
 
 Firstly, we ask you to let us know by email.  We will then invite you to attend a training session where you will be introduced to the aims and objectives of the project, the data sheets and a practical session carrying out a condition survey.  Then you will be given an application form to complete.  Once registered you will be ready to start!
 
+## Policies
+
+All organistions are required to have policues relating to volunteering and you can view ours here:-
+Voluteers Policy
+
 ## Frequently Asked Questions
 
 * Do I need any previous skills or experience?  
