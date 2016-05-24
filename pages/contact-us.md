@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact us
-permalink: /contact-us.md
+permalink: /contact-us
 menu_title: Contact us
 menu_position: 6
 
