@@ -16,7 +16,7 @@ The following map shows the conservation area, which we have subdivided into sev
 
 <iframe width="100%" height="520" frameborder="0" src="https://sebbacon.cartodb.com/viz/8392034e-ff43-11e5-9ddd-0e3a376473ab/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-This is an interactive map. If you click on the "Visible Layers" icon you will see you can select which layers you wish to view. The map can be expanded by clicking on the + icon. Buildings outlined in red are listed Grade II, clicking on a protected tree will reveal the species.
+This is an interactive map. If you click on the "Visible Layers" icon you will see you can select which layers you wish to view. The map can be expanded by clicking on the + icon. Move the map by holding down left click and moving mouse. Buildings outlined in red are listed Grade II, clicking on a protected tree will reveal the species.
 
 ## What makes Holmfirth worthy of conservation status?
 
