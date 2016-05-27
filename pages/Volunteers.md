@@ -13,7 +13,7 @@ You will play a vital role in the project, which aims to survey all buildings an
 
 The building survey involves a quick assessment of the condition of a building and an assessment of the authenticy of original features that remain today.
 
-Each open space, roads, bridges, park, river has its own data sheet, which allows a rapid assessment of its condition.
+Every open space, road, bridge, park and the river has its own data sheet, which allows a rapid assessment of its condition.
 
 ## The task of a Survey Volunteer
 
@@ -37,7 +37,7 @@ Firstly, we ask you to let us know by [email](mailto:Holmfirthconservation@outlo
 
 All organistions are required to have policies relating to volunteering and you can view ours here:-
 
-[Voluteers Policy](/files/VolunteeringPolicy.pdf), 
+[Volunteers Policy](/files/VolunteeringPolicy.pdf), 
 [Health and safety](/files/healthandsafetypolicy.pdf), 
 [Equal Opportunities](/files/equalopportunitiespolicy.pdf)
 
