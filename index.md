@@ -6,7 +6,7 @@ image: holmfirth-view.jpg
 ---
 
 Holmfirth Conservation Group is a group of local people working
-together to conduct an appraisal to conserve and enhance the
+together to conduct an appraisal to preserve and enhance the
 conservation area in the beautiful Yorkshire town of Holmfirth.
 
 Here you'll find out [what a conservation area is](/what-is-holmfirth-conservation-area/), [why](/why-are-we-doing-this) we're doing an appraisal, [how](how) we're planning to carry it out, and [who](/who-are-the-holmfirth-conservation-group/) we are.
