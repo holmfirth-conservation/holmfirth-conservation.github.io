@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Calendar
-permalink: /calendar
-menu_title: calendar
+permalink: /Calendar
+menu_title: Calendar
 menu_position: 8
 
 ---
+
