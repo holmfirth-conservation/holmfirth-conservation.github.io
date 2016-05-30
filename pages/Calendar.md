@@ -28,7 +28,7 @@ SEPTEMBER.......Mapping of data
 
 OCTOBER...........Sharing results with Community and designing policies
 
-JANUARY 2017....Public Meeting to approve draft
+JANUARY 2017.....Public Meeting to approve draft
 
 FEBRUARY 2017..Appraisal presented for adoption to Holme Valley Parish Council
 
