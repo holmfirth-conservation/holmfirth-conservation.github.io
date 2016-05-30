@@ -2,7 +2,7 @@
 layout: page
 title: Search
 permalink: /search/
-menu_position: 7
+menu_position: 10
 
 ---
 
