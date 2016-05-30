@@ -26,7 +26,7 @@ AUGUST.............Input and analysis of data.
 
 SEPTEMBER........Mapping of data
 
-OCTOBER............Sharing results with Community and designing policies
+OCTOBER...........Sharing results with Community and designing policies
 
 JANUARY 2017.....Public Meeting to approve draft
 
