@@ -20,11 +20,11 @@ This is an interactive map. If you click on the "Visible Layers" icon you will s
 
 ## What makes Holmfirth worthy of conservation status?
 
-Its status as a conservation area was a recognised back in 1972 when its qualities as a pennine mill town, little changed since late Georgian early Victorian times, set in a dramatic valley with steep sloping sides on which the domestic architecture with its roofscape of stone slates and chimneys, is a key feature. However it has changed consideraly since 1972. Many of the remaining mill buildings have been demolished. Today Holmfirth is mostly defined by it's surviving domestic and commercial vernacular achitecture, particularly in the "old Town". A glance at the map shows the number of listed buildings in this identity area.  This is why we need to conduct the appraisal and preserve what remains.
+Its status as a conservation area was a recognised back in 1972 when its qualities as a pennine mill town, little changed since late Georgian early Victorian times, set in a dramatic valley with steep sloping sides on which the domestic architecture with its roofscape of stone slates and chimneys, is a key feature. However it has changed considerably since 1972. Many of the remaining mill buildings have been demolished. Today Holmfirth is mostly defined by its surviving domestic and commercial vernacular achitecture, particularly in the "Old Town". A glance at the map shows the number of listed buildings in this identity area.  This is why we need to conduct the appraisal and preserve what remains.
 
 ## What are the duties of a local authority towards a conservation area?
 
-The Planning (Listed Buildings and Conservation Areas) Act 1990 (‘the Act’) defines conservation areas as: “areas of special architectural or historic interest the character or appearance of which it is desirable to preserve or enhance”
+The Planning (Listed Buildings and Conservation Areas) Act 1990 (‘the Act’) defines conservation areas as: “areas of special architectural or historic interest the character or appearance of which it is desirable to preserve or enhance.”
 The Act requires all local authorities to conduct an appraisal of all its conservation areas. 
 
 A formal appraisal has never been done of Holmfirth because of the lack of resources – a conservation appraisal is a costly exercise in terms of manpower and funds – and Holmfirth is a large densely built area of 0.5 sq km with approximately 550 buildings and 38 grade II listed buildings and monuments. We are therefore relying on our community of voluteers to drive this project.
