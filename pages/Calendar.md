@@ -20,9 +20,9 @@ To register for training [email](mailto:Holmfirthconservation@outlook.com)
 ## PROJECT SCHEDULE
 JUNE...............Data collection.
 
-JULY...............Data collection and input of data.
+JULY..................Data collection and input of data.
 
-AUGUST............Input and analysis of data.
+AUGUST.............Input and analysis of data.
 
 SEPTEMBER.......Mapping of data
 
