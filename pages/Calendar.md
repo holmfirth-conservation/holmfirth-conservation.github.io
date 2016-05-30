@@ -18,17 +18,17 @@ June 22nd   1.00pm - 3.00pm        Holmfirth Civic Hall - Exhibition Room
 To register for training [email](mailto:Holmfirthconservation@outlook.com)
 
 ## PROJECT SCHEDULE
-JUNE...........Data collection.
+JUNE...............Data collection.
 
-JULY...........Data collection and input of data.
+JULY...............Data collection and input of data.
 
-AUGUST.........Input and analysis of data.
+AUGUST............Input and analysis of data.
 
-SEPTEMBER......Mapping of data
+SEPTEMBER.......Mapping of data
 
-OCTOBER........Sharing results with Community and designing policies
+OCTOBER...........Sharing results with Community and designing policies
 
-JANUARY 2017...Public Meeting to approve draft
+JANUARY 2017....Public Meeting to approve draft
 
 FEBRUARY 2017..Appraisal presented for adoption to Holme Valley Parish Council
 
