@@ -17,6 +17,7 @@ June 22nd   1.00pm - 3.00pm        Holmfirth Civic Hall - Exhibition Room
 
 To register for training [email](mailto:Holmfirthconservation@outlook.com)
 
+
 ## PROJECT SCHEDULE
 JUNE..................Data collection.
 
