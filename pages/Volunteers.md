@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Want to become a survey volunteer?
-permalink: /Volunteering
+permalink: /Volunteering/
 menu_title: Volunteering
 menu_position: 5
 
