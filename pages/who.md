@@ -9,11 +9,11 @@ menu_position: 3
 
 ## Who are we
 
-We are currently a team of five people with different skills and experiences ranging from land science, strategic planning , history and education who came together as a group with the aim of working with the community to conduct an appraisal to preserve and enhance our conservation area. The officers of the committee are CHAIRPERSON: Anne Bacon, SECRETARY:Deborah Wyles, and TREASURER:Rachel Hogley. You can read their profiles [here](/files/Committeebiographiesv2.docx)
+We are now a committee of ten people with different skills and experiences ranging from land science, strategic planning , history, education,architecture and town planning who came together as a group with the aim of working with the community to conduct an appraisal to preserve and enhance our conservation area. The officers of the committee are CHAIRPERSON: Anne Bacon, SECRETARY:Deborah Wyles, and TREASURER:Rachel Hogley. You can read their profiles [here](/files/Committeebiographiesv2.docx)The profiles of other committee members will folow shortly.
 
 ## Our constitution
 
-The group was formally [constituted](/files/HCGconstitution.pdf) in February 2016 but we are currently considering becoming a CIO (Charitable Incorporated Organisation).  We intend to widen our membership so that anyone or any group with an interest in Holmfirth can become members with voting rights on the trustees/committee members and decisions made at AGM or public meetings
+The group was formally [constituted](/files/HCGconstitution.pdf) in February 2016 but we are currently considering becoming a CIO (Charitable Incorporated Organisation).  We have widened our membership so that anyone or any group with an interest in Holmfirth can become members with voting rights on the proceedures of the group. We currently have 34 members.
 
 ## Partnership
 
