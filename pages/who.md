@@ -9,7 +9,7 @@ menu_position: 3
 
 ## Who are we
 
-We are currently a team of five people with different skills and experiences ranging from land science, strategic planning , history and education who came together as a group with the aim of working with the community to conduct an appraisal to preserve and enhance our conservation area.
+We are currently a team of five people with different skills and experiences ranging from land science, strategic planning , history and education who came together as a group with the aim of working with the community to conduct an appraisal to preserve and enhance our conservation area. The officers of the committee are CHAIRPERSON: Anne Bacon, SECRETARY:Deborah Wyles, and TREASURER:Rachel Hogley. You can read their profiles [here](/files/Committeebiographiesv2.docx)
 
 ## Our constitution
 
