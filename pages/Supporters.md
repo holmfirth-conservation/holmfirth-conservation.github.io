@@ -10,16 +10,20 @@ HCG would like to thank the following businesses and organisations for their con
 
 Kerry Sykes
 Holmfirth Events www.holmfirthevents.co.uk/‎
+
 Holmfirth Community Group www.welcometoholmfirth.co.uk/community-groups/
 
 Margaret Dale
 Holme Valley Vision  www.facebook.com › Places › Holmfirth
+
 HEAD (local business association) holmfirthhead.co.uk/
 
 Holme Valley Civic Society www.holmfirthevents.co.uk/organizer/holme-valley-civic-society
+
 Holme Valley Parish Council. http://www.holmevalleyparishcouncil.gov.uk
 
 Your PC holmfirthpcrepairs.co.uk/
+
 Holmfirth Fire Station www.westyorksfire.gov.uk/stations/holmfirth/
 
 Caroline Anstey at Imagine Toy Shop for acting as a "post box" for our data sheets. www.toyshopuk.co.uk
