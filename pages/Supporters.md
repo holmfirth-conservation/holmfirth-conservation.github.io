@@ -11,7 +11,7 @@ HCG would like to thank the following businesses and organisations for their con
 Kerry Sykes
 [Holmfirth Events](http://www.holmfirthevents.co.uk)
 
-Margaret Dale
+Margaret Dale - 
 Holme Valley Vision
 
 [HEAD](http://holmfirthhead.co.uk/)  (local business association)
