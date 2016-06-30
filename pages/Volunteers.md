@@ -17,7 +17,7 @@ Every open space, road, bridge, park and the river has its own data sheet, which
 
 ## The task of a Survey Volunteer
 
-Following training volunteers will be given the data sheets and a guidance manual and will work either individually or in small groups to conduct the survey. 
+Following training volunteers will be given the data sheets and a guidance manual and will work either individually or in small groups to conduct the survey. Click [here](/files/GuidanceNotesforBuildingsSurveyrevised1.pdf) to see volunteers guidance Manual
 
 There is no minimum expectation of volunteers who register as survey volunteers. We understand that some will want to offer lots of time while others will need to fit their contribution in amongst other commitments. Any help you can offer will be gratefully received!
 
