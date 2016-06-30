@@ -19,7 +19,7 @@ Every open space, road, bridge, park and the river has its own data sheet, which
 
 Following training volunteers will be given the data sheets and a buildings survey [guidance manual](/files/GuidanceNotesforBuildingsSurveyrevised1.pdf) and will work either individually or in small groups to conduct the survey. 
 
-Volunteer photographers will be taking front elevation photos of all buildings and provided with a [photographic guidance manual](/files/PhotgraphicSurvey .pdf) and Record Sheet
+Volunteer photographers will be taking front elevation photos of all buildings and provided with a [photographic guidance manual](/files/PhotgraphicSurvey .pdf) and [Record Sheet](/files/PhotographRecordSheet.pdf)
 
 There is no minimum expectation of volunteers who register as survey volunteers. We understand that some will want to offer lots of time while others will need to fit their contribution in amongst other commitments. Any help you can offer will be gratefully received!
 
