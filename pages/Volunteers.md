@@ -17,7 +17,7 @@ Every open space, road, bridge, park and the river has its own data sheet, which
 
 ## The task of a Survey Volunteer
 
-Following training volunteers will be given the data sheets and a buildings survey [guidance manual](/files/GuidanceNotesforBuildingsSurveyrevised1.pdf) and will work either individually or in small groups to conduct the survey. 
+Following training volunteers will be given the data sheets and a buildings survey a guidance manual and will work either individually or in small groups to conduct the survey. 
 
 Volunteer photographers will be taking front elevation photos of all buildings and provided with a [photographic guidance manual](/files/PhotgraphicSurvey .pdf) and [Record Sheet](/files/PhotographRecordSheet.pdf)
 
