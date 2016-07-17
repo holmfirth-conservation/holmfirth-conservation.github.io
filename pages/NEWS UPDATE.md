@@ -7,6 +7,8 @@ menu_position: 6
 
 ---
 
+## 29 JUNE
+
 33 volunteers have been trained at the four training sessions run by HCG over 2 weeks during the month of June.
 
 
