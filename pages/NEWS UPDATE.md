@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's Been Going On in June?
+title: What's Been Going On?
 permalink: /News Update/
 menu_title: News Update
 menu_position: 6
