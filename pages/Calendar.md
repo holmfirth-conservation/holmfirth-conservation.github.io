@@ -6,16 +6,13 @@ menu_title: Calendar
 menu_position: 8
 
 ---
-## TRAINING FOR BUILDINGS DATA COLLECTION
-June 6th    7.00pm - 9.00pm        Holmfirth Civic Hall - Reception Room
+## FORTHCOMING EVENTS
 
-June 7th   10.00am - 12.00noon     Holmfirth Civic Hall - Exhibition Room
+2nd August – 7pm The Tap Room, Holmfirth – Social evening for sharing experiences about data collection, getting to know other volunteers better or for those who would like to be more involved or know more!
 
-June 20th   7.00pm - 9.00pm        Holmfirth Civic Hall - Exhibition Room
+22nd August – 6:30pm Meeting of those volunteers working in Old Town Zone at The Smithy – planning the working of The Public Realm.
 
-June 22nd   1.00pm - 3.00pm        Holmfirth Civic Hall - Exhibition Room
-
-To register for training [email](mailto:Holmfirthconservation@outlook.com)
+6th September – Team Meeting at The Fire Station
 
 
 ## PROJECT SCHEDULE
