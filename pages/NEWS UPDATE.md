@@ -6,8 +6,21 @@ menu_title: News Update
 menu_position: 6
 
 ---
+## UPDATE 15 JULY
 
-## 29 JUNE
+The first batches of completed data sheets are coming in.  Photographs have been taken of all the buildings in the zone we call “Cliff.” Each photo will be linked to the corresponding data form.  Modern technology is brilliant!  
+
+This phase of the project will be a snapshot in time of our wonderful town and will in itself be an important historic record.
+
+We have four areas within zones available for volunteers to put their names to.  If you have some free time, please get in touch.
+
+We have a social evening coming up on 2nd August at 7pm at The Tap House in Holmfirth where volunteers can share their experiences.  It’s open to anyone - just let us know you’d like to come – you just need an interest in what we are doing.
+
+We have found a Treasurer, thank you Jon
+
+*******************************************************
+
+## UPDATE 29 JUNE
 
 33 volunteers have been trained at the four training sessions run by HCG over 2 weeks during the month of June.
 
