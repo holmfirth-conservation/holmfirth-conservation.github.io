@@ -12,7 +12,7 @@ menu_position: 1
 
 Holmfirth town centre was designated a conservation area in 1972 when all local authorities were required by central government to designate areas within their boundaries with unique historic or topographic significance. The conservation area was extended in 1990 and Holmfirth Conservation Group is intending to recommend a further small addition to include buildings of historic importance.
 
-The following map shows the conservation area, which we have subdivided into seven separate "indentity areas":
+The following map shows the conservation area, which we have subdivided into seven separate "identity areas":
 
 <iframe width="100%" height="520" frameborder="0" src="https://sebbacon.cartodb.com/viz/8392034e-ff43-11e5-9ddd-0e3a376473ab/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
