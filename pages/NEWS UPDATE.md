@@ -6,6 +6,15 @@ menu_title: News Update
 menu_position: 6
 
 ---
+
+## 21 JULY 2016
+
+Yesterday Jenny Sweet and Anne met to discuss changes to our survey sheet for the River Holme.  Jenny will be making suggestions for changes which Clem will be updating.  
+
+Thank you to our new band of volunteers who will be surveying the river.  Jenny will be leading a training day sometime towards the end of August.  Surveying of the river and its surroundings will begin in September.
+
+******************************************************
+
 ## UPDATE 15 JULY
 
 The first batches of completed data sheets are coming in.  Photographs have been taken of all the buildings in the zone we call “Cliff.” Each photo will be linked to the corresponding data form.  Modern technology is brilliant!  
