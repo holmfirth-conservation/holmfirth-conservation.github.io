@@ -7,7 +7,7 @@ menu_position: 6
 
 ---
 
-## 21 JULY 2016
+## UPDATE 21 JULY 2016
 
 Yesterday Jenny Sweet and Anne met to discuss changes to our survey sheet for the River Holme.  Jenny will be making suggestions for changes which Clem will be updating.  
 
