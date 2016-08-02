@@ -39,7 +39,7 @@ menu_position: 3
 * A number of heritage organisations have been consulted including [Maintain Our Heritage](http://www.maintainourheritage.co.uk) who have been helpful when it has come to understanding the threats to the features of historic buildings. If funds become available HCG may organise a community training day led by Maintain Our Heritage.
 * Bradford City Council were particularly helpful in sharing with us how they conducted their appraisal of architectual authenticity.  We will be using the same methodology for our authenticity survey.
 * With regards to digital mapping – we have approached a highly regarded consultant with expertise in this field who is using GIS mapping software to provide a graphic interface for our data analysis. This consultant is also developing and hosting for two years an interactive website for HCG. As a result of his experiences we have the data for trees with a TPO which includes the species which has been entered onto GIS system saving a great deal of time on identification and mapping.
-* Historic England and Kirklees Planning Department have viewed our survey forms and with their encouragment, we are now ready to proceed.
+* Historic England and Kirklees Planning Department have viewed our survey forms and with their encouragment, we are now ready to proceed. 
 
 ## Newsletters
 
