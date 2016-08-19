@@ -7,6 +7,20 @@ menu_position: 6
 
 ---
 
+## UPDATE 16 August
+
+This week has been a particularly exciting one.  
+
+On the 14th July we were contacted by Craig Broadwith of Historic England with a suggestion of possible funding to ensure the Appraisal of Holmfirth Conservation Area and Management Plan could reach a positive conclusion.  
+
+Next July Historic England will be celebrating 50 years of The Civic Amenities Act.  To mark this landmark occasion the organization has selected the HCG as a candidate for funding because our community led project is a national rarity.  
+
+If we are successful in our bid exciting possibilities for the future of Holmfirth as a national focus could increase tourism in our valley.
+
+Watch this space for any updates.
+
+****************************************************
+
 ## UPDATE 21 JULY
 
 Yesterday Jenny Sweet and Anne met to discuss changes to our survey sheet for the River Holme.  Jenny will be making suggestions for changes which Clem will be updating.  
