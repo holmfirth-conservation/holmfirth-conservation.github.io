@@ -7,6 +7,18 @@ menu_position: 6
 
 ---
 
+## UPDATE 18 August
+
+Ten volunteer surveyors were joined by Jason McCartney, and his colleague John, to conduct a team survey of the buildings in the Hollowgate area.
+
+We started at Longley’s café where a party atmosphere prevailed.  Jason gained  an insight into how we collect the data.  Each volunteer had the opportunity to talk directly to him about their interest in the project, to share their experiences and just talk about the project.
+
+Jason supports the project and is excited about the opportunities for conservation and enhancement of our town.
+
+We hope to establish a complementary role to Kirklees, Holme Valley Parish Council and our Ward Councillors to safeguard our heritage.
+
+**********************************************************
+
 ## UPDATE 16 August
 
 This week has been a particularly exciting one.  
