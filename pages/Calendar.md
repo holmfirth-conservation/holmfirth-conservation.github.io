@@ -13,7 +13,7 @@ Wednesday 24nd August – 6:30pm at The Smithy
 Meeting of those volunteers working in Old Town Zone – planning the working of The Public Realm. 
 PLEASE NOTE CHANGE OF DATE - was previously 22nd August!
 
-
+.
 
 Wednesday 30th August - 6.30pm at the Smithy. 
 
