@@ -10,7 +10,8 @@ menu_position: 8
 
 Wednesday 24nd August – 6:30pm at The Smithy
 
-Meeting of those volunteers working in Old Town Zone – planning the working of The Public Realm. 
+Meeting of those volunteers working in Old Town Zone – planning the working of The Public Realm.
+
 PLEASE NOTE CHANGE OF DATE - was previously 22nd August!
 
 .
@@ -23,7 +24,8 @@ Training for volunteer surveyors  for section of River Holme which courses throu
 
 Wednesday 31st August - 6.30pm at The Smithy.
 
-Team meeting
+Team meeting.
+
 PLEASE NOTE CHANGE OF DATE - was previously 6th September!
 
 .
