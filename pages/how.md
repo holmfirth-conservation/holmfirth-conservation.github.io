@@ -9,6 +9,7 @@ menu_position: 3
 
 ## The survey
 
+* We now have all the completed building survey forms.  More than half the data has been entered into the database.  The survey of the public realm has started
 
 * Each building will be photographed and given a unique reference
 * The survey is designed to be quick and easy to use by the surveyor, and easily accessible by the data input team
