@@ -8,33 +8,17 @@ menu_position: 8
 ---
 ## FORTHCOMING EVENTS
 
-Wednesday 24nd August – 6:30pm at The Smithy
+20th September – Committee Meeting
+22nd September – Meeting with Consultants
+27th September – Committee Meeting
 
-Meeting of those volunteers working in Old Town Zone – planning the working of The Public Realm.
+It was agreed that committee meetings will be held on the last Tuesday of each month.
 
-PLEASE NOTE CHANGE OF DATE - was previously 22nd August!
-
-.
-
-Wednesday 30th August - 6.30pm at the Smithy. 
-
-Training for volunteer surveyors  for section of River Holme which courses through the conservation area from Bridge Street to the old bridge at site of former Perserverence  Mill.  This meeting will be attended by Kim Warren, Project Officer and will be lead by Landscape Architect volunteer Jenny Sweet.  If you are interested to join please contact us to secure a place.
-
-.
-
-Wednesday 31st August - 6.30pm at The Smithy.
-
-Team meeting.
-
-PLEASE NOTE CHANGE OF DATE - was previously 6th September!
-
-.
+Any queries for the committee please contact us through the website.
 
 ## PROJECT SCHEDULE
 
-AUGUST.............Complete building surveys. Input and analysis of data.
-
-SEPTEMBER........Complete survey of Public Realm
+SEPTEMBER........Continue with data input for Buildings survey. Complete survey of Public Realm
 
 OCTOBER...........Analysis of data
 
