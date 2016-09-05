@@ -13,7 +13,7 @@ We are now a committee of ten people with different skills and experiences rangi
 
 ## Our constitution
 
-The group was formally [constituted](/files/HCGconstitution.pdf) in February 2016 band is currently applying to become a CIO (Charitable Incorporated Organisation).  We have widened our membership so that anyone or any group with an interest in Holmfirth can become members with voting rights on the proceedures of the group. We currently have 41 members.
+The group was formally [constituted](/files/HCGconstitution.pdf) in February 2016 and is currently applying to become a CIO (Charitable Incorporated Organisation).  We have widened our membership so that anyone or any group with an interest in Holmfirth can become members with voting rights on the proceedures of the group. We currently have 41 members.
 
 ## Partnership
 
