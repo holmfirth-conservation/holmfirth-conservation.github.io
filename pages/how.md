@@ -10,14 +10,14 @@ menu_position: 3
 ## The survey
 
 * We now have all the completed building survey forms.  More than half the data has been entered into the database.  The survey of the public realm has started
-* Each building will be photographed and given a unique reference
+* Each building has been photographed and given a unique reference
 * The survey is designed to be quick and easy to use by the surveyor, and easily accessible by the data input team
 * The survey has two parts – a condition survey which aims to record the present condition of the building, highlighting areas of concern and an architectural authenticity survey that idenifies those characteristics that most truthfully reflect and embody the cultural heritage values of Holmfirth.
 * All buildings and monuments with grade II listing will be measured against the criteria for which they were listed.
 
 
 ## Data Analysis
-* Googlesheets will be used to input data from the survey forms. This is free software designed so that two or more people can update at the same time. Data is stored in the cloud, and is secure.
+* Googlesheets is used to input and store data from the survey forms. This is free software designed so that two or more people can update at the same time. Data is stored in the cloud, and is secure.
 * Layers of information can be extracted from the input data and added to GIS software (Geographic Information System), eg trees with TPO’s (Tree Protection Orders), building use, building condition, authenticity of original features, buildings with a positive, neutral or negative impact on the conservation area, vistas and Grade II listed buildings and monuments with a précis of their listing and links to the Historic England site where full details are available. All these elements will be included in the appraisal.
 * The analysis and the interpretation will be presented to the community at a public meeting
 * The Appraisal and Management plan will be available to the Parish Council, for inclusion in the  The Neighbourhood Plan for The Holme Valley
