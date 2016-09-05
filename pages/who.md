@@ -17,7 +17,7 @@ The group was formally [constituted](/files/HCGconstitution.pdf) in February 201
 
 ## Partnership
 
-Holmfirth Conservation Group (HCG) is committed to involving  all groups and interested parties.  We currently work closely with Holme Valley Vision (HVV), [River 2015](http://river2015.org/rwp/), [HEAD](http://www.holmfirthhead.co.uk) (local business association) and Keep Holmfirth Special.  We will be working with a Duke of Edinburgh Award group based at Honley High School and we wish to extend to other adult and youth groups in the town.
+Holmfirth Conservation Group (HCG) is committed to involving  all groups and interested parties.  We currently work closely with Holme Valley Vision (HVV), [River 2015](http://river2015.org/rwp/), [HEAD](http://www.holmfirthhead.co.uk) (local business association) and Keep Holmfirth Special.  We are working with a Duke of Edinburgh Award group based at Honley High School and we wish to extend to other adult and youth groups in the town.
 
 HCG believes that community involvement is the most powerful tool we have to preserve and enhance our town.
 
@@ -25,7 +25,7 @@ We are committed to good communication with all interested parties and we consta
 
 It is our intention to share our experience in conducting a survey and completing a conservation appraisal with all the other conservation areas in the Holme Valley to enable them to go through the same process.
 
-[Holme Valley Parish Council](http://www.holmevalleyparishcouncil.gov.uk) is currently working on its statutory duty to write a Local Neighbourhood Plan.  HCG is working closely with the Parish Council – two parish councillors are part of the team – and our data will be used to inform the Neighbourhood Plan.  HCG along with other groups in Holmfirth are members of the steering group for the Neighbourhood Plan. [Kirklees Conservation and Design](http://www.kirklees.gov.uk/business/conservation/index.aspx) section of their website is a helpful resource in informing the project.
+[Holme Valley Parish Council](http://www.holmevalleyparishcouncil.gov.uk) is currently working on its statutory duty to write a Local Neighbourhood Plan.  HCG is working closely with the Parish Council – two parish councillors are part of the team – and our data will be used to inform the Neighbourhood Plan.  HCG along with other groups in Holmfirth are members of the steering group for the Neighbourhood Plan. [Kirklees Conservation and Design](http://www.kirklees.gov.uk/business/conservation/index.aspx) section of their website is a helpful resource in informing the Neighbourhood Plan project.
 
 ## Community Involvement
 
