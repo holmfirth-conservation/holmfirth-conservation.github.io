@@ -11,7 +11,7 @@ menu_position: 2
 
 
 * Although protecting the unique characteristics of a conservation area is enshrined in the defined duties of LA’s by central government, and is overseen by [Historic England](https://historicengland.org.uk/advice/planning/conservation-areas/) – Kirklees Council, like many other local authorities, do not have the resources to conduct an appraisal at this time.
-* The historic significance of the town is gradually being eroded. Indeed, in 2009 Holmfirth was designated a conservation area "At risk" and in decline, by Historic England.
+* The historic significance of the town is gradually being eroded. Indeed, in 2009 Holmfirth was designated a conservation area "At Risk" and in decline, by Historic England.
 * A conservation appraisal of Holmfirth will provide a greater focus on planning applications to ensure conservation objectives are met, and could reverse Holmfirth Conservation Area status as "At Risk" and in decline. 
 * The power of the community working together to produce the appraisal and management plan with a shared understanding of what we value and how we want Holmfirth to develop.
 
