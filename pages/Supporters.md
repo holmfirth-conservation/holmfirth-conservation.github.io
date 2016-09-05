@@ -24,6 +24,8 @@ Holme Valley Vision
 
 [Holmfirth Fire Station](http://www.westyorksfire.gov.uk/stations/holmfirth/)
 
+[Jenny Sweet](https://www.sweetlandscapedesign.co.uk) Sweet Landscape Design
+
 Caroline Anstey at Imagine Toy Shop for acting as a "post box" for our data sheets. [Imagine](http://www.toyshopuk.co.uk)
 
 All our volunteers who are working so hard to gather in all the data
