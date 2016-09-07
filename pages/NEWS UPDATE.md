@@ -8,7 +8,7 @@ menu_position: 6
 ---
 ## UPDATE 4 September
 
-On the 30th August – 10 Volunteers were trained by our volunteer Landscape Architect - Jenny Sweet, to survey the condition of the surroundings and banks of the River Holme as it courses through the conservation area.  The meeting was attended by Kim Warren of River 2015, thank you Kim.  The survey is underway!
+On the 30th August – 10 Volunteers were trained by our volunteer Landscape Architect - [Jenny Sweet]((https://www.sweetlandscapedesign.co.uk), to survey the condition of the surroundings and banks of the River Holme as it courses through the conservation area.  The meeting was attended by Kim Warren of River 2015, thank you Kim.  The survey is underway!
 
 50% of the data from the buildings survey has been entered into our spreadsheet, thanks to Carol Ripley, Michael Martin, Frances Bennett and Clem Bacon.  Thanks to our volunteer surveyors and photographers for making this survey so successful.
 
