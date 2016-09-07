@@ -19,7 +19,7 @@ Every open space, road, bridge, park and the river has its own data sheet, which
 
 Following training volunteers will be given the data sheets and a buildings survey a guidance manual and will work either individually or in small groups to conduct the survey. 
 
-Volunteer photographers will be taking front elevation photos of all buildings and provided with a [Record Sheet](Photograph Record Sheet.pdf) to assist with photograph inentification.
+Volunteer photographers will be taking front elevation photos of all buildings and provided with a [Record Sheet](Photograph Record Sheet.pdf) to record the photograph identification reference.
 
 There is no minimum expectation of volunteers who register as survey volunteers. We understand that some will want to offer lots of time while others will need to fit their contribution in amongst other commitments. Any help you can offer will be gratefully received!
 
