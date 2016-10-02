@@ -11,12 +11,15 @@ menu_position: 6
 22nd September
 
 •	We met with Simon Taylor of Kirklees Planning Department and Nigel Hunston, Conservation Officer.  We’re pleased to say – they are supporting the project.
+
 •	Discussed the project with a conservation consultant
 
 27th September
+
 •	Committee meeting where we discussed how consultants could support the project 
 
 29th September
+
 •	Discussion meetings with two more consultants.  
 
 We are close to asking for quotations in order to apply for funding through the Capacity Building Fund.
