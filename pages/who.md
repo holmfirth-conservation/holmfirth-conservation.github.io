@@ -9,7 +9,7 @@ menu_position: 3
 
 ## Who are we
 
-We are now a committee of ten people with different skills and experiences ranging from land science, strategic planning , history, education,architecture and town planning who came together as a group with the aim of working with the community to conduct an appraisal to preserve and enhance our conservation area. The officers of the committee are CHAIRPERSON: Anne Bacon,  SECRETARY: Deborah Wyles,  and TREASURER: Jon Green. You can read their profiles and other committee member profiles [here](/files/Committeebiographies4.pdf)
+We are now a committee of ten people with different skills and experiences ranging from land science, strategic planning , history, education,architecture and town planning who came together as a group with the aim of working with the community to conduct an appraisal to preserve and enhance our conservation area. The officers of the committee are CHAIRPERSON: Anne Bacon,  SECRETARY: Deborah Wyles,  and TREASURER: Jon Green. You can read their profiles and other committee member profiles [here](/files/Committeebiographies 5.docx)
 
 ## Our constitution
 
