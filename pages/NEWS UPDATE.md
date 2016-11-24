@@ -32,8 +32,8 @@ This will need to be revised because
 
 Please note a revised schedule will be posted in December.
 
-Editing Team:
 The Editing Team are:
+
 Peter Hibbard, 
 Frances Bennett, 
 Deborah Wyles, 
