@@ -42,6 +42,7 @@ Clem Bacon,
 
 Profiles have been posted for all, with the exception of Frances Bennett who is a geologist who has a wealth of experience in report writing.
 
+**************************************
 
 ## UPDATE October 2016
 
