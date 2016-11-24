@@ -6,6 +6,43 @@ menu_title: News Update
 menu_position: 6
 
 ---
+## UPDATE November 2016
+
+Historic England require letters of confirmation of broad support for the project from Kirklees and our ward councilors before they consider our application from grant funding.
+
+Kirklees have asked to see our technical data.  We have requested a meeting where we can share it with them but as yet have received no reply.
+
+Requested a letter of confirmation of their support from our ward councilors, Cllr Nigel Patrick, Cllr Ken Sims and Cllr Donald Firth as yet not received but we are hopeful of a positive response.
+
+Editing team have started collecting our preparatory chapters and assuming our application for grant funding from HE is successful chapter writers and the editing team will be consulting with the conservation specialists to ensure our work meets required standards.
+
+Almost all the data collection has been submitted – 
+
+When it has all been received the Streetscape of Holmfirth and the shop frontages will be analysed and descriptive chapters written by two of our former planners.
+
+Draft application for grant funding sent to Historic England and their comments have been received and the application will be amended to reflect their comments
+
+
+SCHEDULE
+
+This will need to be revised because
+•	Application won’t be ready until early December (Management Committee meet 6th December to finalise).
+•	Awaiting letters of support to accompany the application.
+•	Consideration for grant funding takes 4-6 weeks, with Christmas intervening,  a delay is inevitable.
+
+Please note a revised schedule will be posted in December.
+
+Editing Team
+The Editing Team are:
+Peter Hibbard 
+Frances Bennett
+Deborah Wyles
+Stephen Baggott
+Clem Bacon
+
+Profiles have been posted for all, with the exception of Frances Bennett who is a geologist who has a wealth of experience in report writing.
+
+
 ## UPDATE October 2016
 
 HCG interviewed three conservation consultancies, considered their proposals and were very impressed by two of them.
