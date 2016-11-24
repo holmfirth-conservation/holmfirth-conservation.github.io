@@ -6,6 +6,14 @@ menu_title: News Update
 menu_position: 6
 
 ---
+## UPDATE October 2016
+
+HCG interviewed three conservation consultancies, considered their proposals and were very impressed by two of them.
+
+An editing team was appointed from members of the management committee
+
+***************************************
+
 ## UPDATE 29 September
 
 22nd September
