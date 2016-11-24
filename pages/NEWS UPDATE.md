@@ -32,13 +32,13 @@ This will need to be revised because
 
 Please note a revised schedule will be posted in December.
 
-Editing Team
+Editing Team:
 The Editing Team are:
-Peter Hibbard 
-Frances Bennett
-Deborah Wyles
-Stephen Baggott
-Clem Bacon
+Peter Hibbard, 
+Frances Bennett, 
+Deborah Wyles, 
+Stephen Baggott, 
+Clem Bacon, 
 
 Profiles have been posted for all, with the exception of Frances Bennett who is a geologist who has a wealth of experience in report writing.
 
