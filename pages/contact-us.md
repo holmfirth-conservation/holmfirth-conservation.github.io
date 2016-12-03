@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Get involved
-permalink: /get-involved
-menu_title: Get involved
-menu_position: 4
+title: Contact us
+permalink: /contact-us
+menu_title: Contact us
+menu_position: 14
 
 ---
 
-We're always looking for volunteers. If you'd like to help, please get
-in touch. [email]
 
-Use the form below to join our mailing list. You'll receive occasional newsletters and information about upcoming meetings.
+We're always looking for new Members and volunteers (see section Volunteering). If you'd like to be involved, please get
+in touch by [email](mailto:Holmfirthconservation@outlook.com).
+
+If you would like to receive our monthly newsletter please subscribe using the form below.
 
 Visit (and like!) our [Facebook page](https://www.facebook.com/holmfirthconservation) for snippets of local information and brief updates.
 
