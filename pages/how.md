@@ -30,6 +30,7 @@ menu_position: 3
 * The draft appraisal with the management plan will be presented to the community at a public meeting and be available for comment on line.
 * The final appraisal together with the management plan will be available to the Parish Council for inclusion in the the Neighbourhood Plan being developed by Holme Valley Parish Council.
 * The appraisal will be presented to Kirklees council for adoption and to inform future planning. 
+* Holmfirth Conservation Group is willing to share its findings, experiences and assist other community groups engaged in Conservation Area Appraisals
 
 
 ## Informing the Process
