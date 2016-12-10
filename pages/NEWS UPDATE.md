@@ -6,6 +6,29 @@ menu_title: News Update
 menu_position: 6
 
 ---
+## UPDATE December 2016
+
+
+HCG has been awarded £1000 by Longley Farm, One Community Fund that will go towards an information board to direct visitors around some of the historic sites in Holmfirth.  We are so grateful for this support and for the recognition of all the hard work put into this community venture by so many of you.  Thank you Longley Farm, One Community Fund
+
+Data collection is almost complete.  Great work by our surveyors working on the street scene which Steve Davie, a former town planner has found inspiring.  He has completed the draft for the street scene in the Old Town.
+
+Jenny Sweet has analysed the data collected by 14 volunteers and has completed her draft chapter on the character of the River Holme as it flows through Holmfirth.  How lucky we are to have her expertise as a Landscape Architect to complete this task for us
+
+A letter of support for our work has come in from Jason McCartney MP.
+
+We have received emails congratulating us on our award and supporting our work from Thelma Walker HVS Labour candidate 2016 and Arthur Pritchard HVS Lib-Dem candidate for 2016.  It’s good to know they are still maintaining their interest in the valley.
+
+Andrew Cooper Leader of The Green Party in Kirklees has also sent an email of congratulations.  Charles Fairbank Co-ordinator of the Green’s in the Colne Valley has offered to provide support when we need help with a task
+
+Historic England has asked HCG to help Keynsham, North East Somerset Community Conservation Area Survey.
+
+It is so good to know that attention to our project is spreading and inspiring so many people and groups.  Thank you everyone for recognizing the value of community engagement in many aspects that in the past would have been completed and paid for from local government.
+
+We meet with Kirklees Planning Department on 11th January 2017 to share our progress.
+
+*******************************
+
 ## UPDATE November 2016
 
 Historic England require letters of confirmation of broad support for the project from Kirklees and our ward councilors before they consider our application from grant funding.
