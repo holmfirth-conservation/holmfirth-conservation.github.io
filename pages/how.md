@@ -50,5 +50,5 @@ menu_position: 3
 * [July Newsletter](/files/JulyNewsletter.pdf)
 * [August Newsletter](/files/newsletterAugust2016.pdf)
 * [September Newsletter](/files/newletterseptember .pdf)
-* [October Newsletter](/files/OCTOBER NEWSLETTER.docx)
+* [October Newsletter](/files/OCTOBER NEWSLETTER.pdf)
 * [November Newsletter](/files/Newsletter November 2016.pdf)
