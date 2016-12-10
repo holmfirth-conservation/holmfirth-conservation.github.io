@@ -13,7 +13,7 @@ HCG has been awarded £1000 by Longley Farm, One Community Fund that will go tow
 
 Data collection is almost complete.  Great work by our surveyors working on the street scene which Steve Davie, a former town planner has found inspiring.  He has completed the draft for the street scene in the Old Town.
 
-[Jenny Sweet]((https://www.sweetlandscapedesign.co.uk) has analysed the data collected by 14 volunteers and has completed her draft chapter on the character of the River Holme as it flows through Holmfirth.  How lucky we are to have her expertise as a Landscape Architect to complete this task for us
+[Jenny Sweet](https://www.sweetlandscapedesign.co.uk) has analysed the data collected by 14 volunteers and has completed her draft chapter on the character of the River Holme as it flows through Holmfirth.  How lucky we are to have her expertise as a Landscape Architect to complete this task for us
 
 A letter of support for our work has come in from Jason McCartney MP.
 
