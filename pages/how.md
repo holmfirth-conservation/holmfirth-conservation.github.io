@@ -43,7 +43,7 @@ menu_position: 3
 * Historic England and Kirklees Planning Department have viewed our survey forms and with their encouragment, we are now ready to proceed. 
 
 ## Newsletters
-* [February Newsletter](/files/February newsletter.docx)
+* 
 * [April Newsletter](/files/April Newsletter v2.docx)
 * [May Newsletter](/files/maynewsletter.pdf)
 * [June Newsletter](/files/Junenewsletter2016.pdf)
