@@ -12,7 +12,7 @@ menu_position: 3
 * We now have all the completed building survey forms.  All the data has been entered into the database.  The survey of the public realm has been completed.
 * Each building has been photographed and given a unique reference
 * The survey was designed to be quick and easy to use by the surveyor, and easily accessible by the data input team
-* The survey has two parts – a condition survey which aims to record the present condition of the building, highlighting areas of concern and an architectural authenticity survey that idenifies those characteristics that most truthfully reflect and embody the cultural heritage values of Holmfirth.
+* The survey has two parts – a condition survey which records the present condition of the building, highlighting areas of concern and an architectural authenticity survey that idenifies those characteristics that most truthfully reflect and embody the cultural heritage values of Holmfirth.
 * All buildings and monuments with grade II listing have been measured against the criteria for which they were listed.
 
 
