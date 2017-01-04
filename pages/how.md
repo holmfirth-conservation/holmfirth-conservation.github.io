@@ -53,3 +53,4 @@ menu_position: 3
 * [October Newsletter](/files/OCTOBER NEWSLETTER.pdf)
 * [November Newsletter](/files/Newsletter November 2016.pdf)
 * [December Newsletter](/files/dec newsletter.pdf)
+* [January Newsletter 2017](/files/January Newsletter.V2docx.pdf)
