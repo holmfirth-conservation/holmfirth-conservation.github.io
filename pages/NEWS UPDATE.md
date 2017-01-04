@@ -6,8 +6,21 @@ menu_title: News Update
 menu_position: 6
 
 ---
-## UPDATE December 2016
 
+## UPDATE January 2017
+
+HCG has received a letter of support from Holme Valley Parish Council.
+HCG meets Kirklees Planning Department 11th January to share its work and seek a letter of support.
+A group led by Deborah Wyles is considering the content and possible siting of a heritage interpretation board.  The group will be working with the Parish Council of find a suitable site to install it.
+Next committee meeting 17th January 2017 where we will discuss progress to date and our next steps
+Kim Chandler who will be leading the Events Team will develop a strategy for marketing and engaging the public for our next open meeting where we will be sharing the results of the survey.
+The Editing Team will continue working on the chapters submitted by members for the Conservation Appraisal.
+HCG hopes to have successfully received all letters of support required for Historic England funding
+HCG plan to meet with conservation consultants to agree the support required to ensure the Appraisal is robust and meets to required standards
+
+***********************
+
+## UPDATE December 2016
 
 HCG has been awarded £1000 by Longley Farm, One Community Fund that will go towards an information board to direct visitors around some of the historic sites in Holmfirth.  We are so grateful for this support and for the recognition of all the hard work put into this community venture by so many of you.  Thank you Longley Farm, One Community Fund
 
