@@ -7,55 +7,30 @@ menu_position: 5
 
 ---
 
-## What does the role involve?
-
-You will play a vital role in the project, which aims to survey all buildings and open spaces within the conservation boundary of Holmfirth.  
-
-The building survey involves a quick assessment of the condition of a building and an assessment of the authenticy of original features that remain today.
-
-Every open space, road, bridge, park and the river has its own data sheet, which allows a rapid assessment of its condition.
-
-## The task of a Survey Volunteer
-
-Following training volunteers will be given the data sheets and a buildings survey a guidance manual and will work either individually or in small groups to conduct the survey. 
-
-Volunteer photographers will be taking front elevation photos of all buildings and provided with a [Record Sheet](/files/Photograph Record Sheet.pdf) to record the photograph identification reference.
-
-There is no minimum expectation of volunteers who register as survey volunteers. We understand that some will want to offer lots of time while others will need to fit their contribution in amongst other commitments. Any help you can offer will be gratefully received!
-
-## Who can become a Survey Volunteer?
+## Who can become a Volunteer?
 
 Holmfirth Conservation Group welcomes volunteers of all ages and abilities and will offer tailored training according to people’s needs and interests.
 
-Anybody aged 16 or over is welcome to become a volunteer surveyor. Those under 16 are welcome to attend a training event and carry out the role alongside an adult.
+Anybody aged 16 or over is welcome to become a volunteer. Those under 16 are welcome to attend a training event and carry out the role alongside an adult.
 
 No previous experience is necessary as full training will be given and someone will be available to provide support should you need it.
 
-## How do I become a Survey Volunteer?
+## How do I become a Volunteer?
 
-Firstly, we ask you to let us know by [email](mailto:Holmfirthconservation@outlook.com)  We will then invite you to attend a training session where you will be introduced to the aims and objectives of the project, the data sheets and a practical session carrying out a condition survey.  Then you will be given an application form to complete.  Once registered you will be ready to start!
+Firstly, we ask you to let us know by [email](mailto:Holmfirthconservation@outlook.com)  We will then contact you to discuss how you might become involved and ask you to complete an application form.  Once registered you will be ready to start! We will provide any training that may be required.
+
+## What does the role involve?
+
+During 2016 our voluteers have undertaken field surveys of the all the buildings in the Conservation Area, parks & open spaces, footpaths, trees and the River Holme as well as street surveys. 
+
+We are now moving on to the next stage. Some of our volunteers have been writing up draft chapters for the appraisal which should be complete in February.  We now need to prepare for Public Consultation and are looking for voluteers to assist with stewarding and generally help out.
+
+When the action points for the Management Plan have been agreed by members in the Spring of 2017, volunteers will form working parties once more in order to fulfill the community objectives.
 
 ## Policies
 
 All organistions are required to have policies relating to volunteering and you can view ours here:-
-
 [Volunteers Policy](/files/VolunteeringPolicy.pdf), 
 [Health and safety](/files/healthandsafetypolicy.pdf), 
 [Equal Opportunities](/files/equalopportunitiespolicy.pdf)
 
-## Frequently Asked Questions
-
-* Do I need any previous skills or experience?  
-    No.  You will receive training
-
-* How much time am I expected to commit?  
-    There is no expected time limit.  However little, it will be valued
-
-* Do I need my own transport?  
-    The area is 0.5 sq. Km, so it is all within walking distance
-
-* Do I need to be good with IT?  
-    No the data input is entered by another team
-
-* Do I need my own camera?  
-    Photographs will support each survey, so if you have a camera this would be helpful but not essential. A loan camera may be available for volunteer use. 
