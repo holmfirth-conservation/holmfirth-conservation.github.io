@@ -7,7 +7,7 @@ menu_position: 6
 
 ---
 
-## STOP PRESS! - Press release to celebrate the awarding of £1000 from the Longley Farm, Kirklees One Community Fund released 13th January 2015
+## STOP PRESS! - Press release to celebrate the awarding of £1000 from the Longley Farm, Kirklees One Community Fund, released on 13th January 2015
 
 Kirklees Fund and Holme Valley Parish Council support for ground-breaking community Heritage work in Holmfirth
 Holmfirth Conservation Group (HCG), a community-based organisation established in 2015, has been awarded £1000 from the Longley Farm, Kirklees One Community Fund in recognition of their work in support of the Holmfirth Conservation Area. The money will help to pay for an interpretation board which will celebrate the cultural heritage of Holmfirth and lead residents and  visitors on a trail of discovery around Holmfirth.  
