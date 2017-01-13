@@ -7,6 +7,25 @@ menu_position: 6
 
 ---
 
+## STOP PRESS! - Press release to celebrate the awarding of £1000 from the Longley Farm, Kirklees One Community Fund released 13th January 2015
+
+Kirklees Fund and Holme Valley Parish Council support for ground-breaking community Heritage work in Holmfirth
+Holmfirth Conservation Group (HCG), a community-based organisation established in 2015, has been awarded £1000 from the Longley Farm, Kirklees One Community Fund in recognition of their work in support of the Holmfirth Conservation Area. The money will help to pay for an interpretation board which will celebrate the cultural heritage of Holmfirth and lead residents and  visitors on a trail of discovery around Holmfirth.  
+HCG has been working with a wide range of community groups, businesses and individuals, as well as the Holme Valley Parish Council, Holme Valley Ward Councillors and our local MP, Jason McCartney, who said “I am extremely impressed with the work you are doing.”    
+Holme Valley Parish Council, in their letter of support for HCG (received 22 Dec 2016) said:
+"Holme Valley Parish Council is both aware of and supportive of Holmfirth Conservation Group's plans to undertake a Conservation Area Appraisal of Holmfirth.
+We are aware of the town's 'at risk' status as identified by Historic England in 2009 and expressed our concern to Kirklees Local Authority in January 2016 at the lack of Conservation Area Appraisal, which is their statutory duty to undertake. However, given the lack of resources within Kirklees to complete any appraisal and our desire to preserve our historic town, we welcomed the Holmfirth Conservation Group's work to prepare one and we provided grant funding earlier in the year to support this process".  
+In addition the group has gained support from Councillor Andrew Cooper, Leader of the Green Party Group on Kirklees Council who said  
+“ Congratulations to HCG for securing funding from One Community  to help improve and preserve the historic  buildings and environment in the town. As a Holme Valley resident myself I value the beauty of the area in both the quality of the local environment and the character of the buildings in Holmfirth Town Centre. The enthusiasm to protect our heritage is strong in local people and deserves supporting.” 
+Thelma Walker (Labour Holme Valley South Ward 2016 election candidate) and Arthur Pritchard (Libdem 2016 election candidate)  have also added their support.
+HCG’s members have been engaged in collecting data in the Holmfirth Conservation Area in order to provide a detailed picture of every aspect of the built environment. The group was approached by Historic England in August and encouraged to apply for a grant from their Capacity Building Fund. Currently, HCG is working on a draft of the Appraisal and discussing "ways forward" with Kirklees Councillors and Planning Officers in order to ensure that the grant application to History England is successful. Once funding is secured the HGC’s next step will be to engage conservation consultants to review the draft Conservation Area Appraisal and Management Plan.  Public meetings will be held to share the findings and to encourage community participation.   
+HCG wishes to express their sincere thanks to Longley Farm One Community Fund, Holme Valley Parish Council and all those who are supporting the aims and work of the group
+More information and details about the group can be found on their website www.holmfirthconservation.org.uk. 
+These can also be found on Facebook.
+If you would like to know more please do contact HCG through its webpage.    
+
+********************
+
 ## UPDATE January 2017
 
 HCG has received a letter of support from Holme Valley Parish Council.
