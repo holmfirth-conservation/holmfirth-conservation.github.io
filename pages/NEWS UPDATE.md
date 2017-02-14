@@ -18,6 +18,8 @@ The Events Team are working on fund raising activities aimed at a wide audience 
 
 Unfortunately, until we have the Kirklees letter of support, HCG cannot give a specific timescale but be assured we are not standing still, there’s still much to do.
 
+***************************
+
 ## STOP PRESS! - Press release to celebrate the awarding of £1000 from the Longley Farm, Kirklees One Community Fund, released on 13th January 2015
 
 Kirklees Fund and Holme Valley Parish Council support for ground-breaking community Heritage work in Holmfirth
