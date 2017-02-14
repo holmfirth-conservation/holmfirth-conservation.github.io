@@ -6,6 +6,29 @@ menu_title: News Update
 menu_position: 6
 
 ---
+## UPDATE  February 2017
+
+We had a Good meeting with Kirklees Planning Department who were very impressed with HCG’s data on the built environment – in fact they were excited at what it could offer.  Simon Taylor and Nigel Hunston will be seeing the Planning Committee about the meeting.  We are hopeful that we will be given the long-awaited letter of support, hopefully before the end of the month.
+
+Deborah Wyles and her team are very active planning the Interpretation Board which will lead residents and visitors young and old on a voyage of discovery around our heritage assets.  To date the project has received £1000 from One Community Fund – Longley Farm, £500 from Rotary.  An application for funding has been made to Holmfirth and Meltham Lions.  The project will cost more than we originally thought, so we will be looking for further funding.  If you have any ideas please let us know.
+
+Kim Chandler’s Events Team are well underway with organizing the FREE open meeting at The Picuredrome on 28th February.  Book your tickets here.  Our thanks go to Peter Carr and to the Holmfirth Film Festival who have supported us for the evening.  [Flyers]
+
+Good meeting with Kirklees Planning Department who were very impressed with HCG’s data on the built environment – in fact they were excited at what it could offer.  Simon Taylor and Nigel Hunston will be seeing the Planning Committee about the meeting.  We are hopeful that we will be given the long-awaited letter of support, hopefully before the end of the month.
+
+Deborah Wyles and her team are very active planning the Interpretation Board which will lead residents and visitors young and old on a voyage of discovery around our heritage assets.  To date the project has received £1000 from One Community Fund – Longley Farm, £500 from Rotary.  An application for funding has been made to Holmfirth and Meltham Lions.  The project will cost more than we originally thought, so we will be looking for further funding.  If you have any ideas please let us know.
+
+Kim Chandler’s Events Team are well underway with organizing the FREE open meeting at The Picuredrome on 28th February.  Book your tickets here.  Our thanks go to Peter Carr and to the Holmfirth Film Festival who have supported us for the evening.  Flyers have been delivered to every commercial and professional service providers in Holmfirth and posters have been displayed about the town.  We are hoping for a good turnout for this event when we will be sharing our work to date and you will have the opportunity to share your views with us.
+
+The Events Team are working on fund raising activities aimed at a wide audience – so watch this space.
+
+Unfortunately, until we have the Kirklees letter of support, HCG cannot give a specific timescale but be assured we are not standing still, there’s still much to do.
+have been delivered to every commercial and professional service providers in Holmfirth and posters have been displayed about the town.  We are hoping for a good turnout for this event when we will be sharing our work to date and you will have the opportunity to share your views with us.
+
+The Events Team are working on fund raising activities aimed at a wide audience – so watch this space.
+
+Unfortunately, until we have the Kirklees letter of support, HCG cannot give a specific timescale but be assured we are not standing still, there’s still much to do.
+
 
 ## STOP PRESS! - Press release to celebrate the awarding of £1000 from the Longley Farm, Kirklees One Community Fund, released on 13th January 2015
 
