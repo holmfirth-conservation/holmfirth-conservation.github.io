@@ -8,8 +8,6 @@ menu_position: 6
 ---
 ## UPDATE  February 2017
 
-UPDATE – February 2017
-
 We had a good meeting with Kirklees Planning Department who were very impressed with HCG’s data on the built environment – in fact they were excited at what it could offer.  Simon Taylor and Nigel Hunston will be seeing the Planning Committee about the meeting.  We are hopeful that we will be given the long-awaited letter of support, hopefully before the end of the month.
 
 Deborah Wyles and her team are very active planning the Interpretation Board which will lead residents and visitors young and old on a voyage of discovery around our heritage assets.  To date the project has received £1000 from One Community Fund – Longley Farm, £500 from Rotary.  An application for funding has been made to Holmfirth and Meltham Lions.  The project will cost more than we originally thought, so we will be looking for further funding.  If you have any ideas please let us know.
