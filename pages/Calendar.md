@@ -8,13 +8,9 @@ menu_position: 8
 ---
 ## FORTHCOMING EVENTS
 
-6th January - Editing Team meeting.
+14th February - Management Committee Meeting
 
-11th January - Meeting with Kirklees Planning Department.
-
-17th January - Management Committee Meeting
-
-20th January - Editing Team Meeting
+20th February - Editing Team Meeting
 
 ## PROJECT SCHEDULE
 
