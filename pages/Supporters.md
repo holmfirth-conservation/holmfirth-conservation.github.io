@@ -8,6 +8,12 @@ menu_position: 9
 ---
 HCG would like to thank the following businesses and organisations for their continuing support.
 
+Peter Carr [Picturedrome](http://www.picturedrome.net)
+
+[Rotary Club of Holmfirth](https://www.rotary-ribi.org/clubs/homepage.php?ClubID=207)
+
+[Holmfirth Film Festival](http://holmfirthfilmfestival.org)
+
 Kerry Sykes
 [Holmfirth Events](http://www.holmfirthevents.co.uk)
 
