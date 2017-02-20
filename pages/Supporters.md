@@ -8,6 +8,8 @@ menu_position: 9
 ---
 HCG would like to thank the following businesses and organisations for their continuing support.
 
+[Institute of Historic Building Conservation](http://www.ihbc.org.uk)
+
 Peter Carr [Picturedrome](http://www.picturedrome.net)
 
 [Rotary Club of Holmfirth](https://www.rotary-ribi.org/clubs/homepage.php?ClubID=207)
