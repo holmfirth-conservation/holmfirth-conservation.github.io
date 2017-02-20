@@ -8,11 +8,11 @@ menu_position: 8
 ---
 ## FORTHCOMING EVENTS
 
-14th February - Management Committee Meeting
-
-20th February - Editing Team Meeting
+27th February - Editing Team Meeting
 
 28th February - Community Briefing   [flyer](/files/Flyer 28 Feb v2 A5.docx)
+
+2nd March - Management Committee Meeting
 
 ## PROJECT SCHEDULE
 
