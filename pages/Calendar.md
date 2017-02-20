@@ -12,6 +12,8 @@ menu_position: 8
 
 20th February - Editing Team Meeting
 
+28th February - Community Briefing
+
 ## PROJECT SCHEDULE
 
 A revised project schedule will be published at the end of January.  When we have the four letters of support we need for our funding application, we will be able to project timings.
