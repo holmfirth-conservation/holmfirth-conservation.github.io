@@ -12,7 +12,7 @@ menu_position: 8
 
 20th February - Editing Team Meeting
 
-28th February - Community Briefing [flyer](/files/Flyer 28 Feb v2 A5.docx)
+28th February - Community Briefing   [flyer](/files/Flyer 28 Feb v2 A5.docx)
 
 ## PROJECT SCHEDULE
 
