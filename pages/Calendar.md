@@ -12,7 +12,7 @@ menu_position: 8
 
 28th February - Community Briefing   [flyer](/files/Flyer 28 Feb v2 A5.docx)
 
-2nd March - Management Committee Meeting
+2nd March - Management Committee Meeting.
 
 ## PROJECT SCHEDULE
 
