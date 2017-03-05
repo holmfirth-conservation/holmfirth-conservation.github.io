@@ -8,13 +8,13 @@ menu_position: 8
 ---
 ## FORTHCOMING EVENTS
 
-27th February - Editing Team Meeting
+6th March - Editing Team Meeting
 
-28th February - Community Briefing   [flyer](/files/Flyer 28 Feb v2 A5.docx)
+15th March - Events committee meeting
 
-2nd March - Management Committee Meeting.
+29th March = Management committee meeting
 
-## PROJECT SCHEDULE
+28th April - HCG QUIZ!
 
-A revised project schedule will be published at the end of January.  When we have the four letters of support we need for our funding application, we will be able to project timings.
+
 
