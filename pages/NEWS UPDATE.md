@@ -6,6 +6,21 @@ menu_title: News Update
 menu_position: 6
 
 ---
+## UPDATE March 2017
+
+There was an open meeting on Tuesday 28th February at The Picturedrome to share the outcome of CA survey with surveyors , HCG members and interested parties.  90+ heads counted.  68 signed in.  Questionnaire handed out – 17 open-ended questions which will be analysed and form part of the basis of public opinion about the town.
+
+£106 was raised for the interpretation board which will provide a tour with QR codes so that additional information can be accessed via mobile phone.
+
+The Headteacher at Holmfirth High is keen for his students to be involved in future.
+
+Letter of support not yet received from Kirklees but we will be meeting Cllr McBride this month (date to be advised), when we expect to receive our letter.
+
+Kath Stewart and her Duke of Edinburgh Award students plan to clear two of our seven footpaths during April – thank you Kath and her team.
+
+Kim Chandler our Events Manager with her team have organized the venue of our fund raising social evening – a quiz with supper at Holy Trinity Church Holmfirth on 28th April at 7:30pm.  More information to follow.
+
+
 ## UPDATE  February 2017
 
 We had a good meeting with Kirklees Planning Department who were very impressed with HCG’s data on the built environment – in fact they were excited at what it could offer.  Simon Taylor and Nigel Hunston will be seeing the Planning Committee about the meeting.  We are hopeful that we will be given the long-awaited letter of support, hopefully before the end of the month.
