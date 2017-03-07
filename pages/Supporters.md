@@ -8,6 +8,8 @@ menu_position: 9
 ---
 HCG would like to thank the following businesses and organisations for their continuing support.
 
+Holmfirtrh and Meltham [Lions](http://lions105c.org.uk/holmfirth/)
+
 Adam Shaw at [Mezze](http://www.mezze-bar-restaurant.co.uk)
 
 [Institute of Historic Building Conservation](http://www.ihbc.org.uk)
