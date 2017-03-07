@@ -8,9 +8,9 @@ menu_position: 8
 ---
 ## FORTHCOMING EVENTS
 
-6th March - Editing Team Meeting
-
 15th March - Events committee meeting
+
+24th March - Editing Team Meeting
 
 29th March = Management committee meeting
 
