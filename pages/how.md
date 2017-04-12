@@ -44,6 +44,7 @@ menu_position: 3
 
 ## Newsletters
 
+* [April newsletter 2017](/files/April 2017 newsletter.pdf)
 * [March newsletter 2017](/files/March 2017 newsletter.pdf)
 * [February newsletter 2017](/files/feb newsletter 2017.pdf)
 * [January Newsletter 2017](/files/January Newsletter.V2docx.pdf)
