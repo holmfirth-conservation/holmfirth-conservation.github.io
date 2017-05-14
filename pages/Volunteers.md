@@ -28,6 +28,11 @@ delivering flyers in September,
 stewarding Public Meetings,
 helpers at fund raising events.
 
+## Specialist Opportunities
+
+* licensed Drone Operator to take aerial photos for the CAA
+* Lawyers, architects, surveyors, builders with an interest in conservation work who would be prepared to give informal advice without charge to the community.
+
 ## Policies
 
 All organistions are required to have policies relating to volunteering and you can view ours here:-
