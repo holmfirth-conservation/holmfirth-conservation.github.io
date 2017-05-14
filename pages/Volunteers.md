@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Want to become a survey volunteer?
+title: Want to become a volunteer?
 permalink: /Volunteering/
 menu_title: Volunteering
 menu_position: 5
