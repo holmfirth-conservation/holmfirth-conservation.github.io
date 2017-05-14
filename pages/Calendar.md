@@ -8,13 +8,9 @@ menu_position: 8
 ---
 ## FORTHCOMING EVENTS
 
-15th March - Events committee meeting
+14th June - Management Committee Meeting
 
-24th March - Editing Team Meeting
 
-29th March = Management committee meeting
-
-28th April - HCG QUIZ!
 
 
 
