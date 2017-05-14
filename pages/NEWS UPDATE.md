@@ -11,6 +11,8 @@ menu_position: 6
 On 24th April HCG met Cllr McBride who promised a letter of support for our work to date from Kirklees. 
 The letter arrived at the start of May and Historic England have confirmed we now have all the necessary support we need to apply for funding from the Capacity Building Fund. The process of writing the briefs for conservation, design and Public Relations is under way.
 
+Thank you to Donald Cumming and Helen Robinson who organised a Volunteering Fair at the Market Hall in Holmfirth on 13th May.  This gave us the opportunity to extend our volunteer base.  Four students from Holmfirth High School have expressed an interest in using Instagram to promote Holmfirth.  HCG has written to the Headteacher asking if this could be incorporated into the curriculum.  Mike Wade has offered to make a film accessed through a mobile phone with a QR code.  This will be an enhancement to our Interpretaion Board project lead by Deborah Wyles and supported by her skillful team.  Helen Bray, who this year is celebrating 100 years of the Bray family business, by making a presentation of old photographs.  She has kindly offered to present to our HCG membership - this will be a great oppportunity for the community to connect with old Holmfirth - always a winner.  Thank you to everyone who added their names to our list of volunteers.
+
 ## UPDATE March 2017
 
 There was an open meeting on Tuesday 28th February at The Picturedrome to share the outcome of CA survey with surveyors , HCG members and interested parties.  90+ heads counted.  68 signed in.  Questionnaire handed out – 17 open-ended questions which will be analysed and form part of the basis of public opinion about the town.
