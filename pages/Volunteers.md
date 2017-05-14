@@ -25,7 +25,7 @@ During 2016 our voluteers have undertaken field surveys of the all the buildings
 
 We are now moving on to the next stage. Some of our volunteers have been writing up draft chapters for the appraisal which should be complete in February.  We now need to prepare for Public Consultation and are looking for voluteers to assist with stewarding and generally help out.
 
-When the action points for the Management Plan have been agreed by members in the Spring of 2017, volunteers will form working parties once more in order to fulfill the community objectives.
+When the action points for the wish list have been agreed by members in the Spring of 2017, volunteers will form working parties once more in order to fulfill the community objectives.
 
 ## Policies
 
