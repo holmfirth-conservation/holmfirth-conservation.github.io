@@ -24,9 +24,9 @@ Firstly, we ask you to let us know by [email](mailto:Holmfirthconservation@outlo
 * Someone to manage our facebook page
 * Someone to set up and manage a twitter account
 * Volunteers for fieldwork,
-delivering Flyers in September,
-Stewarding Public Meetings,
-Helpers at fund raising events.
+delivering flyers in September,
+stewarding Public Meetings,
+helpers at fund raising events.
 
 ## Policies
 
