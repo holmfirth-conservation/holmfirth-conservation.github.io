@@ -8,7 +8,7 @@ menu_position: 6
 ---
 ## UPDATE May 2017
 
-On 24th April HCG met Cllr McBride who promised a letter of support for our work to date from Kirklees 
+On 24th April HCG met Cllr McBride who promised a letter of support for our work to date from Kirklees. 
 The letter arrived at the start of May and Historic England have confirmed we now have all the necessary support we need to apply for funding from the Capacity Building Fund. The process of writing the briefs for conservation, desighn and Public Relations is under way.
 
 ## UPDATE March 2017
