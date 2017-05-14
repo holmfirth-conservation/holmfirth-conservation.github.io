@@ -19,13 +19,14 @@ No previous experience is necessary as full training will be given and someone w
 
 Firstly, we ask you to let us know by [email](mailto:Holmfirthconservation@outlook.com)  We will then contact you to discuss how you might become involved and ask you to complete an application form.  Once registered you will be ready to start! We will provide any training that may be required.
 
-## What does the role involve?
+## New Volunteering Opportunities
 
-During 2016 our voluteers have undertaken field surveys of the all the buildings in the Conservation Area, parks & open spaces, footpaths, trees and the River Holme as well as street surveys. 
-
-We are now moving on to the next stage. Some of our volunteers have been writing up draft chapters for the appraisal which should be complete in February.  We now need to prepare for Public Consultation and are looking for voluteers to assist with stewarding and generally help out.
-
-When the action points for the wish list have been agreed by members in the Spring of 2017, volunteers will form working parties once more in order to fulfill the community objectives.
+* Someone to manage ourfacebook page
+* Someone to set up and manage a twiier account
+* Volunteers for firldwork
+delivering Flyers in September
+Stewarding Public Meetings
+Helpers at fund raising events
 
 ## Policies
 
