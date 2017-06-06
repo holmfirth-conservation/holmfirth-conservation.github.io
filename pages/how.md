@@ -50,15 +50,6 @@ menu_position: 3
 * [March newsletter 2017](/files/March 2017 newsletter.pdf)
 * [February newsletter 2017](/files/feb newsletter 2017.pdf)
 * [January Newsletter 2017](/files/January Newsletter.V2docx.pdf)
-* [December Newsletter](/files/dec newsletter.pdf)
-* [November Newsletter](/files/Newsletter November 2016.pdf)
-* [October Newsletter](/files/OCTOBER NEWSLETTER.pdf) 
-* [September Newsletter](/files/newletterseptember .pdf)
-* [August Newsletter](/files/newsletterAugust2016.pdf)
-* [July Newsletter](/files/JulyNewsletter.pdf)
-* [June Newsletter](/files/Junenewsletter2016.pdf)
-* [May Newsletter](/files/maynewsletter.pdf)
-* [April Newsletter](/files/April Newsletter v2.pdf)
 
 
 
