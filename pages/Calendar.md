@@ -8,7 +8,7 @@ menu_position: 8
 ---
 ## FORTHCOMING EVENTS
 
-14th June - Management Committee Meeting
+2nd August 19.00 at The Tap House. Full Management Committee Meeting to review and discuss the first Drft of the Conservation Area Appraisal.
 
 
 
