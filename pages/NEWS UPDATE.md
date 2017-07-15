@@ -6,6 +6,17 @@ menu_title: News Update
 menu_position: 6
 
 ---
+## UPDATE July 2017
+
+We have now interviewed three Heritage and Conservation Consultants and three Public Relation Consultants.  By Monday we should have agreed our preferred consultancies having met yesterday to discuss – it’s just the paperwork that is outstanding.
+
+Our Funding Manager has almost completed our funding bid for a Capacity Building Grant which will be sent, once the timeline has been agreed, and, the consultancy selection has been made.  Once submitted we hope there will be a decision made about funding within six weeks.
+
+The Editing Group has completed the first draft for review and endorsement by the Management Committee on the 2nd August which should just give enough time for adjustments to be made before the Draft Conservation Area Appraisal is passed to the Heritage and Conservation Consultant.
+
+HCG will update as soon as there more news for you.
+
+
 ## UPDATE May 2017
 
 On 24th April HCG met Cllr McBride who promised a letter of support for our work to date from Kirklees. 
