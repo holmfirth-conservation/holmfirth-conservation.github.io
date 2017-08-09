@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Windows on the Past
+title: HOLMFIRTH'S HERITAGE TRAIL
 permalink: /heritage/
 menu_title: Heritage trail
 menu_position: 11
 
 ---
 
-## Holmfirth's Heritage Trail
+## Windows on the Past
