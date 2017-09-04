@@ -13,4 +13,4 @@ Here you'll find out [what a conservation area is](/what-is-holmfirth-conservati
 
 If you're interested, please [get involved](/Volunteering/)!
 
-[WINDOWS ON THE PAST Heritage Trail]()
+[WINDOWS ON THE PAST Heritage Trail](/heritage/)
