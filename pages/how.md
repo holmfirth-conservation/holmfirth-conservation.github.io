@@ -44,7 +44,7 @@ menu_position: 3
 
 ## Newsletters
 
-* [September 2017 Newsletter](files
+* [September 2017 Newsletter](/files/September 2017 Newsletter.pdf)
 * [August Newsletter 2017](/files/August 2017 Newsletter.pdf)
 * [July Newsletter 2017](/files/July newsletter 2017.pdf)
 * [June Newsletter 2017](/files/june newsletter.pdf)
