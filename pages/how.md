@@ -18,7 +18,6 @@ menu_position: 3
 
 ## Data Analysis
 * Googlesheets have been used to input and store data from the survey forms.There are 50,000 data entries. 
-* Layers of information are being extracted from the input data and added to GIS software (Geographic Information System). The layers will include building age, building use, views and vistas and Grade II listed buildings and monuments with a précis of their listing and links to the Historic England site where full details are available. All these elements will be included in the appraisal.
 * The analysis and the interpretation will be presented to a series of public meetings
 * The Appraisal and Management plan will be available to the Parish Council, for inclusion in the  The Neighbourhood Plan for The Holme Valley
 
