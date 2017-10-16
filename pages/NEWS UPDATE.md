@@ -6,6 +6,20 @@ menu_title: News Update
 menu_position: 6
 
 ---
+## UPDATE September 2017
+
+The month commenced with the launch of our Discovery Trail launched by Jimmy Dickinson of Longley Farm and led by Deborah Wyles.
+
+HCG received notification of a grant from Historic England’s Capacity Buildings Grant of £8500 towards the cost of the services of a conservation consultant and publication of the Conservation Area Appraisal.  HCG is most grateful for this generous grant and is currently searching for additional grant funding to ensure a successful conclusion.
+
+Our Funding Event this month raised £250 towards our CAA project costs.  We thank Helen Bray for generously presenting photographs in her archives which celebrate 100 years of Bray’s Photographers.
+
+
+## UPDATE October 2017
+
+Members of the HCG Management Committee walked around the conservation area with Eddie Booth, Conservation Consultant of The Conservation Studio with whom we are now working.  Craig Broadwith of Historic England also joined us.  This occasions kick-started the process of review of the work to date.
+
+
 ## UPDATE July 2017
 
 We have now interviewed three Heritage and Conservation Consultants and three Public Relation Consultants.  By Monday we should have agreed our preferred consultancies having met yesterday to discuss – it’s just the paperwork that is outstanding.
