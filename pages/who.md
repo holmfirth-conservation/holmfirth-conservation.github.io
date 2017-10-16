@@ -17,7 +17,7 @@ The group was formally registered as a CIO on the 19th April Charity No. 1172636
 
 ## Partnership
 
-Holmfirth Conservation Group (HCG) is committed to involving  all groups and interested parties.  We are working closely with Holme Valley Parish Council, Holme Valley Vision (HVV), [River Holme Connections](http://river2015.org/rwp/)formerly River 2015, [HEAD](http://www.holmfirthhead.co.uk) (local business association) and Keep Holmfirth Special and Holme Valley Civic Society.  A group of Duke of Edinburgh Award students were involved during the summer of 2016.  We encourage other groups, youth, senior and interest groups to become members.
+Holmfirth Conservation Group (HCG) is committed to involving  all groups and interested parties.  We are working closely with Holme Valley Parish Council, Holme Valley Vision (HVV), [River Holme Connections](http://river2015.org/rwp/) formerly River 2015, [HEAD](http://www.holmfirthhead.co.uk) (local business association) and Keep Holmfirth Special and Holme Valley Civic Society.  A group of Duke of Edinburgh Award students were involved during the summer of 2016.  We encourage other groups, youth, senior and interest groups to become members.
 
 HCG believes that community involvement is the most powerful tool we have to preserve and enhance our town.
 
