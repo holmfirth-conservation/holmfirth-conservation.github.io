@@ -29,6 +29,8 @@ This is essential to ensure an effective successful outcome.  Trustees and membe
 
 At the present moment we rely on the goodwill of individuals and groups.  Besides what the team contributes, experts and consultants in their fields have advised on design of survey forms, the use GIS software (essential for displaying data in layered graphical form which is easy to read and inform) and the development of an interactive website. 
 
-HEAD ((Holmfirth Enterprise and Development) and Keep Holmfirth Special have generously provided us with funds to enable us to hold our open meetings. The One Community Fund have given a grant towards an Interpretation Board which will lead folk on a trail of discovery augmented by their mobile phones with videos and additional information.
+HEAD ((Holmfirth Enterprise and Development) and Keep Holmfirth Special have generously provided us with funds to enable us to hold our open meetings. 
 
-We are currently looking for additional grants and funds following our successful application to Longley Farm One Community Fund.  
+The One Community Fund (Longley Farm Fund) together Holmfirth and Meltham Lions, Rotary and IHBC have given a grant towards an Interpretation Board which will lead folk on a trail of discovery. Upkeep of the board, which is located opposite Bramble will be maintained by Holme Valley Parish Council.
+
+ 
