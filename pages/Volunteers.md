@@ -21,13 +21,11 @@ Firstly, we ask you to let us know by [email](mailto:Holmfirthconservation@outlo
 
 ## New Volunteering Opportunities
 
-* Interested in the History of Holmfirth? Stewards wanted to lead or support trails around Holmfirth in 2018 (1-2 hours once a month during summer months).  Full training will be given.  We will be celebrating our built environment, our culture and our history.  Two volunteers have expressed an interest already.  Don’t miss the opportunity.
 * Someone to manage our facebook page
 * Someone to set up and manage a twitter account
-* Volunteers for fieldwork,
-delivering flyers in September,
-stewarding Public Meetings,
-helpers at fund raising events.
+* Volunteers for delivering flyers in October to advertise the forthcoming Public Consultation
+* stewarding Public Meetings,
+* helpers at fund raising events.
 
 ## Policies
 
