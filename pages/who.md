@@ -31,6 +31,6 @@ At the present moment we rely on the goodwill of individuals and groups.  Beside
 
 HEAD ((Holmfirth Enterprise and Development) and Keep Holmfirth Special have generously provided us with funds to enable us to hold our open meetings. 
 
-The One Community Fund (Longley Farm Fund) together Holmfirth and Meltham Lions, Rotary and IHBC have given a grant towards an Interpretation Board which will lead folk on a trail of discovery. Upkeep of the board, which is located opposite Bramble will be maintained by Holme Valley Parish Council.
+The One Community Fund (Longley Farm Fund) together Holmfirth and Meltham Lions, Rotary and IHBC have given a grant towards an [Interpretation Board](/heritage/) which will lead folk on a trail of discovery. Upkeep of the board, which is located opposite Bramble will be maintained by Holme Valley Parish Council.
 
  
