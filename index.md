@@ -5,15 +5,6 @@ menu_title: HCG
 image: holmfirth-view.jpg
 ---
 
-
-
-
-
-
-
-# PLEASE COMPLETE THE PUBLIC CONSULTATION QUESTIONNAIRE [Click here](https://www.surveymonkey.co.uk/r/F22KHJM)
-
-
 Holmfirth Conservation Group is a group of local people working
 together to conduct an appraisal to preserve and enhance the
 conservation area in the beautiful Yorkshire town of Holmfirth.
@@ -21,5 +12,8 @@ conservation area in the beautiful Yorkshire town of Holmfirth.
 Here you'll find out [what a conservation area is](/what-is-holmfirth-conservation-area/), [why](/why-are-we-doing-this) we're doing an appraisal, [how](how) we're planning to carry it out, and [who](/who-are-the-holmfirth-conservation-group/) we are.
 
 If you're interested, please [get involved](/Volunteering/)!
+
+# PLEASE COMPLETE THE PUBLIC CONSULTATION QUESTIONNAIRE [Click here](https://www.surveymonkey.co.uk/r/F22KHJM)
+
 
 Heritage Trail - [WINDOWS ON THE PAST](/heritage/)
