@@ -15,7 +15,7 @@ If you're interested, please [get involved](/Volunteering/)!
 
 
 ## STOP PRESS!
-PLEASE COMPLETE THE PUBLIC CONSULTATION QUESTIONNAIRE it takes less than 5 minutes and will make a difference![Click here](https://www.surveymonkey.co.uk/r/F22KHJM)
+PLEASE COMPLETE THE PUBLIC CONSULTATION QUESTIONNAIRE it takes less than 5 minutes and will make a difference! [Click here](https://www.surveymonkey.co.uk/r/F22KHJM)
 
 
 Heritage Trail - [WINDOWS ON THE PAST](/heritage/)
