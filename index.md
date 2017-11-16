@@ -5,6 +5,12 @@ menu_title: HCG
 image: holmfirth-view.jpg
 ---
 
+
+
+
+
+
+
 # PLEASE COMPLETE THE PUBLIC CONSULTATION QUESTIONNAIRE [Click here](https://www.surveymonkey.co.uk/r/F22KHJM)
 
 
