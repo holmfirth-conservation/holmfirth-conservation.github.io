@@ -7,7 +7,6 @@ image: holmfirth-view.jpg
 
 ## STOP PRESS!
 PLEASE COMPLETE THE PUBLIC CONSULTATION QUESTIONNAIRE it takes less than 5 minutes and will make a difference! [Click here](https://www.surveymonkey.co.uk/r/F22KHJM)
-
 ---
 
 Holmfirth Conservation Group is a group of local people working
