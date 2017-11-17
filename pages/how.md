@@ -43,16 +43,13 @@ menu_position: 3
 
 ## Newsletters
 
+* [November Newsletter 2017](/files/November 2017-3.pdf)
 * [October Newsletter 2017](/files/October 2017 newsletter.pdf)
 * [September Newsletter 2017](/files/September 2017 Newsletter.pdf)
 * [August Newsletter 2017](/files/August 2017 Newsletter.pdf)
 * [July Newsletter 2017](/files/July newsletter 2017.pdf)
 * [June Newsletter 2017](/files/june newsletter.pdf)
-* [May newsletter 2017](/files/May newsletter 2017.pdf)
-* [April newsletter 2017](/files/April 2017 newsletter.pdf)
-* [March newsletter 2017](/files/March 2017 newsletter.pdf)
-* [February newsletter 2017](/files/feb newsletter 2017.pdf)
-* [January Newsletter 2017](/files/January Newsletter.V2docx.pdf)
+
 
 
 
