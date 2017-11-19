@@ -6,6 +6,11 @@ menu_title: News Update
 menu_position: 6
 
 ---
+
+## UPDATE November 2017
+
+Public Consultation Meeting to be held on 22nd November between 10:00 and 21:00 at The Old Bridge Inn, Holmfirth.  You will find out about the issues that have been identified as a result of the survey.  Your views will be collected at the meeting and by filling in the questionnaire.  The public’s views will inform the  draft CAA which will be sent to Kirklees for comment before the CAA is completed.
+
 ## UPDATE September 2017
 
 The month commenced with the launch of our Discovery Trail launched by Jimmy Dickinson of Longley Farm and led by Deborah Wyles.
