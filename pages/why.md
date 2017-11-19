@@ -24,7 +24,7 @@ menu_position: 2
 
 * The contents of the appraisal will have to be considered in any future planning applications
 * The community of Holmfirth will have a shared understanding of its conservation area and its obligations to preserve and enhance it.
-* The community of Holmfirth will have worked together to use the outcomes of the appraisal to make a wish list to inform Kirklees of the asperations of the community
+* The community of Holmfirth will have worked together to use the outcomes of the appraisal to make a wish list to inform Kirklees of the aspirations of the community
 * The CAA will be used by Kirklees to formulate a management plan which will inform future planning to preserve and enhance the conservation area of Holmfirth.
-* The CAA will provide the evidence base for Holme Valley Parish Coouncil's Neighbourhood Plan to support the asperations of local residents and the Local economy.
-* Holmfirth Conservation Town will be able to apply for funding to realize its aims and objectives.
+* The CAA will provide the evidence base for Holme Valley Parish Coouncil's Neighbourhood Plan to support the aspirations of local residents and the Local economy.
+* Holmfirth Conservation Town will be able to apply for funding to realise its aims and objectives.
