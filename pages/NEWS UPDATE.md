@@ -16,7 +16,7 @@ All appendices will be available to read alongside the draft CAA.  HCG will atte
 
 HCG has added to our mailing list all those who filled in a questionnaire in November, leaving an email address.  If you do not wish to receive our monthly newsletter, or further information about the CAA, please unsubscribe at the bottom of this newsletter.
 
-2nd February 2018 – Wine Tasting Event led by Nick of Majestic Wines of Huddersfield.  Bread, cheese, nuts etc will be available to cleanse the palette.  Tickets are available from Eventbrite, https://www.eventbrite.co.uk/e/wine-tasting-evening-tickets-42152640683 the Holmfirth TiC and Imagine Toy Shop of Holmfirth at £10 each.  The event will begin at 7:30pm, following the wine tasting, sometime after 9pm, you will be able to talk about the draft CAA with members of the committee, if you wish.
+2nd February 2018 – Wine Tasting Event led by Nick of Majestic Wines of Huddersfield.  Bread, cheese, nuts etc will be available to cleanse the palette.  Tickets are available from [Eventbrite](https://www.eventbrite.co.uk/e/wine-tasting-evening-tickets-42152640683) the Holmfirth TiC and Imagine Toy Shop of Holmfirth at £10 each.  The event will begin at 7:30pm, following the wine tasting, sometime after 9pm, you will be able to talk about the draft CAA with members of the committee, if you wish.
 
 5th February 2018
 Public Consultation Period ends.  Comments will be collated and changes made to the draft CAA, to form the final CAA which will be sent for design and publication.
