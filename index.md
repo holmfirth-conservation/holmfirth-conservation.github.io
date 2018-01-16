@@ -13,6 +13,6 @@ Here you'll find out [what a conservation area is](/what-is-holmfirth-conservati
 
 If you're interested, please [get involved](/Volunteering/)!
 
-[CONSERVATION AREA DRAFT APPRAISAl] - pending publication
+DRAFT CONSERVATION AREa APPRAISAL - pending publication
 
 [HERITAGE TRAIL](/heritage/)
