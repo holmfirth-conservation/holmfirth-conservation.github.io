@@ -13,4 +13,6 @@ Here you'll find out [what a conservation area is](/what-is-holmfirth-conservati
 
 If you're interested, please [get involved](/Volunteering/)!
 
+[CONSERVATION AREA DRAFT APPRAISAl](/files/HCG CC edited Jan 16th 2018 ver 2.pdf)
+
 [HERITAGE TRAIL](/heritage/)
