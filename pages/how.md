@@ -27,7 +27,7 @@ menu_position: 3
 * The action points will be used to create a wish list of improvements.
 
 ## The Appraisal
-* The draft appraisal with the wish list will be presented to the community at a public meeting and be available for [comment on line]
+* The draft appraisal is now avaiale to view online. Click [here](/Appraisal/) and be available for[comment on line]
 * The final appraisal together with the wish list will be available to the Parish Council for inclusion in the the Neighbourhood Plan being developed by Holme Valley Parish Council.
 * The appraisal will be presented to Kirklees council for adoption and to inform future planning. 
 * Holmfirth Conservation Group is willing to share its findings, experiences and assist other community groups engaged in Conservation Area Appraisals subject to licensing terms which can be viewed from the link at the bottom of each web page.
