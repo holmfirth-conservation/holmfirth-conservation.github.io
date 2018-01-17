@@ -23,7 +23,6 @@ Firstly, we ask you to let us know by [email](mailto:Holmfirthconservation@outlo
 
 * Someone to manage our facebook page
 * Someone to set up and manage a twitter account
-* Volunteers for delivering flyers in October to advertise the forthcoming Public Consultation
 * Stewarding Public Meetings,
 * Helpers at fund raising events.
 
