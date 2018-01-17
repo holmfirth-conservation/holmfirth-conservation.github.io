@@ -14,7 +14,7 @@ menu_position: 3
 * The survey was designed to be quick and easy to use by the surveyor, and easily accessible by the data input team
 * The survey has two parts – a condition survey which records the present condition of the building, highlighting areas of concern and an architectural authenticity survey that idenifies those characteristics that most truthfully reflect and embody the cultural heritage values of Holmfirth.
 * All buildings and monuments with grade II listing have been measured against the criteria for which they were listed.
-* HCG has been asked by the Conservation Consultant to collect more data around street furniture.  HCG needs volunteers to help with this task.  Training given – all to be completed between 26th November and 8th December.  If you wish to volunteer for this task.  Please let HCG via the CONTACT page by email.  
+* The Public Realm has also been surveyed, including street furniture, signage, lighting, waste bins as well as parks and open spaces
 
 
 ## Data Analysis
@@ -27,11 +27,11 @@ menu_position: 3
 * The action points will be used to create a wish list of improvements.
 
 ## The Appraisal
-* The draft appraisal with the wish list will be presented to the community at a public meeting and be available for comment on line.
+* The draft appraisal with the wish list will be presented to the community at a public meeting and be available for [comment on line]
 * The final appraisal together with the wish list will be available to the Parish Council for inclusion in the the Neighbourhood Plan being developed by Holme Valley Parish Council.
 * The appraisal will be presented to Kirklees council for adoption and to inform future planning. 
 * Holmfirth Conservation Group is willing to share its findings, experiences and assist other community groups engaged in Conservation Area Appraisals subject to licensing terms which can be viewed from the link at the bottom of each web page.
-* Public Consultation Meeting to be held on 22nd November between 10:00 and 21:00 at The Old Bridge Inn, Holmfirth.  You will find out about the issues that have been identified as a result of the survey.  Your views will be collected at the meeting and by filling in the questionnaire.  The public’s views will inform the  draft CAA which will be sent to Kirklees for comment before the CAA is completed.  Kirklees should use the issues to produce a Management Plan for Holmfirth.  Internal investment in the town should lead to greater prosperity in the town, more local jobs, preservation of the historic buildings which represent more than 80% of Holmfirth’s built environment and enhancement of the public realm to boost the special interest of our Conservation Town and the Holme Valley.
+* Public Consultation Meeting was held on 22nd November at The Old Bridge Inn, Holmfirth. The public’s views will inform the  draft CAA which will be sent to Kirklees for comment before the CAA is completed.  Kirklees should use the issues to produce a Management Plan for Holmfirth.  Internal investment in the town should lead to greater prosperity in the town, more local jobs, preservation of the historic buildings which represent more than 80% of Holmfirth’s built environment and enhancement of the public realm to boost the special interest of our Conservation Town and the Holme Valley.
 
 
 ## Informing the Process
