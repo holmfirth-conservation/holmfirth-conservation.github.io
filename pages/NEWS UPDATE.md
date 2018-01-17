@@ -9,7 +9,7 @@ menu_position: 6
 
 ## UPDATE January and February
 
-22nd January 2018 – [Draft Conservation Area Appraisal](/Appraisal/)(CAA) will be published on HCG website.  It will be available for a  two week public consultation period when HCG members, stakeholders and the community of Holmfirth, the Holme Valley and beyond are invited to comment.  Please send your comments by email to:
+22nd January 2018 – [Draft Conservation Area Appraisal](/Appraisal/) (CAA) will be published on HCG website.  It will be available for a  two week public consultation period when HCG members, stakeholders and the community of Holmfirth, the Holme Valley and beyond are invited to comment.  Please send your comments by email to:
 Holmfirthconservation@outlook.com which can be accessed through the HCG website.  If for any unforeseen circumstances there are any changes to this date,  notification will be posted on our FaceBook page.
 
 All appendices will be available to read alongside the draft CAA.  HCG will attempt to make navigation between the reports as simple as possible.
