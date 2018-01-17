@@ -6,11 +6,14 @@ menu_title: Calendar
 menu_position: 8
 
 ---
-## FORTHCOMING EVENTS
+## FORTHCOMING EVENT
 
-## Public Consultation Meeting to be held on 22nd November between 10:00 and 21:00 at The Old Bridge Inn, Holmfirth. 
+## Wine tasting evening at Wooldale Community Hall, Holmfirth - Friday 2nd February at 7.30pm. Cost £10 per ticket
 
-You will find out about the issues that have been identified as a result of the survey.  Your views will be collected at the meeting and by filling in the questionnaire.  The public’s views will inform the  draft CAA which will be sent to Kirklees for comment before the CAA is completed.  Kirklees should use the issues to produce a Management Plan for Holmfirth.  Internal investment in the town should lead to greater prosperity in the town, more local jobs, preservation of the historic buildings which represent more than 80% of Holmfirth’s built environment and enhancement of the public realm to boost the special interest of our Conservation Town and the Holme Valley.
+Tickets available from Holmfirth TIC, Imagine Toyshop, Holmfirth or from [Eventbrite](https://www.eventbrite.co.uk/e/wine-tasting-evening-tickets-42152640683). Holmfirth Conservation Group (HCG) Managemebt Commitee and Majestic Wines will manage the event.We have decided to simplify the evening and provide just cheese, nuts, crisps and bread to cleanse the pallet.
+
+The Management Committee would be happy to answer any of your queries relating to  the CAA after the wine tasting from around 9pm.  We look forward to seeing and/or hearing from you.
+
 
 
 
