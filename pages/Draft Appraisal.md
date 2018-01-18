@@ -8,7 +8,7 @@ menu_position: 4
 ---
 The Draft Conservation Appraisal and supporting appendices will be put on the website on Friday 19th January 
 
-THE DRAFT CONSERVATION AREA APPRAISAL IS NOW AVAIABLE TO VIEW
+# THE DRAFT CONSERVATION AREA APPRAISAL IS NOW AVAILABLE TO VIEW
 
 ## NOTE
 This is the HCG's first draft of the Holmfirth Conservation Area Appraisal (CAA)
@@ -17,7 +17,7 @@ No design has been applied as it is still a working docment until stakeholders h
 
 It is intended that the draft CAA is read with the associated evidence in the appendices.
 
-If you have ant comments please [email](mailto:Holmfirthconservation@outlook.com) no later than 5th February 2018. Your comments will inform the final version
+If you have any§§ comments please [email](mailto:Holmfirthconservation@outlook.com) no later than 5th February 2018. Your comments will inform the final version
 
 Click [here] to open the DRAFT APPRAISAL
 
