@@ -23,7 +23,7 @@ Click here to open the draft Appraisal
 
 Click on any Appendix to view
 
-[Appendix A1 Public Consultation](/files/Appendix A1 Public Cnsultation.pdf)
+[Appendix A1 Public Consultation](/files/Appendix A1 Public Consultation.pdf)
 
 [Appendix A2 Public Consultation Questionnaire](/files/Appendix A2 Public Consultation Questionaire SUMMARY.pdf)
 
