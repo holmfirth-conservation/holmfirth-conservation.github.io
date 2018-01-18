@@ -21,7 +21,7 @@ If you have any comments please [email](mailto:Holmfirthconservation@outlook.com
 
 Click [here] to open the DRAFT APPRAISAL
 
-Click on any Appendix to view
+APPENDICES. Click on any appendix to view
 
 [Appendix A1 Public Consultation](/files/Appendix A1 Public Consultation.pdf)
 
