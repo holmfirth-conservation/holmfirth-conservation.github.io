@@ -11,8 +11,6 @@ conservation area in the beautiful Yorkshire town of Holmfirth.
 
 Here you'll find out [what a conservation area is](/what-is-holmfirth-conservation-area/), [why](/why-are-we-doing-this) we're doing an appraisal, [how](how) we're planning to carry it out, and [who](/who-are-the-holmfirth-conservation-group/) we are.
 
-If you're interested, please [get involved](/Volunteering/)!
-
 ## STOP PRESS!
 
 The draft Conservation Area Apprisal is now available to view - [click here](/Appraisal/)
