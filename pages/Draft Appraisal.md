@@ -25,26 +25,26 @@ Click on any Appendix to view
 
 [Appendix A1 Public Consultation](/files/Appendix A1 Public Cnsultation.pdf)
 
-[Appendix A2 Public Consultation Questionnaire](/files/Appendix A2 Public consultation Questionaire SUMMARY.pdf)
+[Appendix A2 Public Consultation Questionnaire](/files/Appendix A2 Public Consultation Questionaire SUMMARY.pdf)
 
 [Appendix B Car Park Survey](/files/Appendix B Car Park Survey.pdf)
 
-[Appendix C Footpaths Survey](files/Appendix C Footpaths Survey.pdf)
+[Appendix C Footpaths Survey](/files/Appendix C Footpaths Survey.pdf)
 
-[Appendix D Tree and River Survey]
+[Appendix D Tree and River Survey](/files/Appendix D Tree Survey and River Survey.pdf)
 
-Appendix E Maps
+[Appendix E Maps](/files/Appendix E Maps v2.pdf)
 
-Appendix F Survey Methodology
+[Appendix F Survey Methodology](/files/Appendix F Survey Methodology.pdf)
 
-Appendix G Training Manual
+[Appendix G Training Manual](/files/Appendix G Training manual.pdf)
 
-Appendix H Statistical analysis
+[Appendix H Statistical analysis](/files/Appendix H Statistical Analysis.pdf)
 
-Appendix I Schedule of Listed Buildings
+[Appendix I Schedule of Listed Buildings](/files/Appendix I Schedule of Listed Buildings.pdf)
 
-Appendix J Schedule of Key Buildings
+[Appendix J Schedule of Key Buildings](/files/Appendix J Schedule of Key Buildings.pdf)
 
-Appendix K Historical Information
+[Appendix K Historical Information](/files/Appendix K Historical, Social and Economic development.pdf)
 
 
