@@ -19,7 +19,7 @@ It is intended that the draft CAA is read with the associated evidence in the ap
 
 If you have ant comments please [email](mailto:Holmfirthconservation@outlook.com) no later than 5th February 2018. Your comments will inform the final version
 
-Click here to open the draft Appraisal
+Click [here] to open the DRAFT APPRAISAL
 
 Click on any Appendix to view
 
