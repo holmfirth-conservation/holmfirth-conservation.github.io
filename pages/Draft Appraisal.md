@@ -43,7 +43,7 @@ Click on any Appendix to view
 
 [Appendix I Schedule of Listed Buildings](/files/Appendix I Schedule of Listed Buildings.pdf)
 
-[Appendix J Schedule of Key Buildings](/files/Appendix J Schedule of Key Buildings.pdf)
+[Appendix J Schedule of Key Buildings](/files/Appendix J Schedule of Key Buildings .pdf)
 
 [Appendix K Historical Information](/files/Appendix K Historical, Social and Economic development.pdf)
 
