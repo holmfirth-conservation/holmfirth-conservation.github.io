@@ -23,4 +23,27 @@ Click here to open the draft Appraisal
 
 Click on any Appendix to view
 Appendix A1 Public Consultation
+
 Appendix A2 Public Consultation Questionnaire
+
+Appendix B Car Park Survey
+
+Appendix C Footpaths Survey
+
+Appendix D Tree and River Survey
+
+Appendix E Maps
+
+Appendix F Survey Methodology
+
+Appendix G Training Manual
+
+Appendix H Statistical analysis
+
+Appendix I Schedule of Listed Buildings
+
+Appendix J Schedule of Key Buildings
+
+Appendix K Historical Information
+
+
