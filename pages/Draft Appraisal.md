@@ -23,15 +23,15 @@ Click here to open the draft Appraisal
 
 Click on any Appendix to view
 
-[Appendix A1 Public Consultation](/files/Apendix A1 Public Cnsultation.pdf)
+[Appendix A1 Public Consultation](/files/Appendix A1 Public Cnsultation.pdf)
 
-Appendix A2 Public Consultation Questionnaire
+[Appendix A2 Public Consultation Questionnaire](/files/Appendix A2 Public consultation Questionaire SUMMARY.pdf)
 
-Appendix B Car Park Survey
+[Appendix B Car Park Survey](/files/Appendix B Car Park Survey.pdf)
 
-Appendix C Footpaths Survey
+[Appendix C Footpaths Survey](files/Appendix C Footpaths Survey.pdf)
 
-Appendix D Tree and River Survey
+[Appendix D Tree and River Survey]
 
 Appendix E Maps
 
