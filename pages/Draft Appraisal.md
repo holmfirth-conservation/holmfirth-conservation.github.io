@@ -7,9 +7,9 @@ menu_position: 4
 
 ---
 
-THE DRAFT CONSERVATION AREA APPRAISAL IS NOW AVAILABLE TO VIEW
+##THE DRAFT CONSERVATION AREA APPRAISAL IS NOW AVAILABLE TO VIEW
 
-## NOTE
+# NOTE
 * This is the HCG's first draft of the Holmfirth Conservation Area Appraisal (CAA)
 
 * No design has been applied as it is still a working document until stakeholders have had time to comment.
