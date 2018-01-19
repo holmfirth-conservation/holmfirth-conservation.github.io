@@ -18,7 +18,7 @@ THE DRAFT CONSERVATION AREA APPRAISAL IS NOW AVAILABLE TO VIEW
 
 If you have any comments please [email](mailto:Holmfirthconservation@outlook.com) no later than 5th February 2018. Your comments will inform the final version
 
-## [DRAFT APPRAISAL](HCG CC edited Jan 2018 rev 5.pdf)
+## [DRAFT APPRAISAL](/files/HCG CC edited Jan 2018 rev 5.pdf)
 
 ## APPENDICES. Click on any appendix to view
 
