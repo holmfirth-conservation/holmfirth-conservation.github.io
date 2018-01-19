@@ -20,7 +20,7 @@ If you have any comments please [email](mailto:Holmfirthconservation@outlook.com
 
 ## [click here for DRAFT APPRAISAL](/files/HCG CC edited Jan 2018 rev 5.pdf)
 
-## APPENDICES. Click on any appendix to view
+## APPENDICES. Click on any appendix below to view
 
 [Appendix A1 Public Consultation](/files/Appendix A1 Public Consultation.pdf)
 
