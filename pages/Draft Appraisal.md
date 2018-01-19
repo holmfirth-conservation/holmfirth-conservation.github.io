@@ -6,7 +6,6 @@ menu_title: Draft Appraisal
 menu_position: 4
 
 ---
-The Draft Conservation Appraisal and supporting appendices will be put on the website on Friday 19th January 
 
 THE DRAFT CONSERVATION AREA APPRAISAL IS NOW AVAILABLE TO VIEW
 
@@ -19,7 +18,7 @@ THE DRAFT CONSERVATION AREA APPRAISAL IS NOW AVAILABLE TO VIEW
 
 If you have any comments please [email](mailto:Holmfirthconservation@outlook.com) no later than 5th February 2018. Your comments will inform the final version
 
-Click [here] to open the DRAFT APPRAISAL
+Click [here](HCG CC edited Jan 2018 rev 5.) to open the DRAFT APPRAISAL
 
 APPENDICES. Click on any appendix to view
 
