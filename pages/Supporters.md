@@ -9,7 +9,7 @@ menu_position: 9
 HCG would like to thank the following businesses and organisations and community Group for their continuing support.
 
 The One Community Fund - [Longley Farm Fund](http://www.one-community.org.uk/looking-for-funding/longley-farm-fund.php)
-
+[One Community](http://www.one-community.org.uk/)
 Holmfirth and Meltham [Lions](http://lions105c.org.uk/holmfirth/)
 
 Adam Shaw at [Mezze](http://www.mezze-bar-restaurant.co.uk)
