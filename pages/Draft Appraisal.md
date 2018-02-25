@@ -32,7 +32,7 @@ If you have any comments please [email](mailto:Holmfirthconservation@outlook.com
 
 [Appendix D Tree and River Survey](/files/Appendix D Tree Survey and River Survey.pdf)
 
-[Appendix E Maps](/files/Appendix E Maps v2.pdf)
+[Appendix E Maps](/files/Appendix E Maps .pdf)
 
 [Appendix F Survey Methodology](/files/Appendix F Survey Methodology.pdf)
 
