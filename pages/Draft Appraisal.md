@@ -24,7 +24,7 @@ If you have any comments please [email](mailto:Holmfirthconservation@outlook.com
 
 [Appendix A1 Public Consultation](/files/Appendix A1 Public Consultation.pdf)
 
-[Appendix A2 Public Consultation Questionnaire](/files/Appendix A2 Public Consultation Questionaire SUMMARY.pdf)
+[Appendix A2 Public Consultation Questionnaire](/files/Appendix A2 Public Consultation Questionaire.pdf)
 
 [Appendix B Car Park Survey](/files/Appendix B Car Park Survey.pdf)
 
