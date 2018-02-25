@@ -42,7 +42,7 @@ If you have any comments please [email](mailto:Holmfirthconservation@outlook.com
 
 [Appendix I Schedule of Listed Buildings](/files/Appendix I Schedule of Listed Buildings.pdf)
 
-[Appendix J Schedule of Key Buildings](/files/Appendix J Schedule of Key Buildings .pdf)
+[Appendix J Schedule of Key Buildings](/files/Appendix J Schedule of Key Buildings v2.pdf)
 
 [Appendix K Historical Information](/files/Appendix K Historical, Social and Economic development.pdf)
 
