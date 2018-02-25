@@ -38,7 +38,7 @@ If you have any comments please [email](mailto:Holmfirthconservation@outlook.com
 
 [Appendix G Training Manual](/files/Appendix G Training manual.pdf)
 
-[Appendix H Buildings Survey](/files/Appendix H Buildings Survey.pdf
+[Appendix H Buildings Survey](/files/Appendix H Buildings Survey.pdf)
 
 [Appendix I Schedule of Listed Buildings](/files/Appendix I Schedule of Listed Buildings.pdf)
 
