@@ -7,18 +7,12 @@ menu_position: 4
 
 ---
 
-## THE DRAFT CONSERVATION AREA APPRAISAL IS NOW AVAILABLE TO VIEW
+## THE HCG CONSERVATION AREA APPRAISAL IS NOW AVAILABLE TO VIEW
 
-## NOTE
-* This is the HCG's first draft of the Holmfirth Conservation Area Appraisal (CAA)
+* It is intended the HCG Conservation Area Appraisal is read in conjunction with the appendices.
 
-* No design has been applied as it is still a working document until stakeholders have had time to comment.
 
-* It is intended that the draft CAA is read with the associated evidence in the appendices.
-
-If you have any comments please [email](mailto:Holmfirthconservation@outlook.com) no later than 5th February 2018. Your comments will inform the final version
-
-## [click here for DRAFT APPRAISAL](/files/HCG CC edited Jan 2018 rev 5.pdf)
+## [click here for HCG APPRAISAL](/files/HCG Apraisal 26 Feb 2018 .pdf)
 
 ## APPENDICES. Click on any appendix below to view
 
