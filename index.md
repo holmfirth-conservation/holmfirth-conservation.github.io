@@ -13,5 +13,5 @@ Here you'll find out [what a conservation area is](/what-is-holmfirth-conservati
 
 ## STOP PRESS!
 
-The draft Conservation Area Apprisal is now available to view - [click here](/Appraisal/)
+The HCG Conservation Area Apprisal is now available to view - [click here](/Appraisal/)
 
