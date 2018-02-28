@@ -2,7 +2,7 @@
 layout: page
 title: HCG Conservation Area Appraisal
 permalink: /Appraisal/
-menu_title: HCG Appraisal
+menu_title: HCG Appraisal 
 menu_position: 4
 
 ---
