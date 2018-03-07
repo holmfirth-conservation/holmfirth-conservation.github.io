@@ -12,7 +12,7 @@ menu_position: 4
 * It is intended the HCG Conservation Area Appraisal is read in conjunction with the appendices.
 
 
-## [click here for HCG APPRAISAL](/files/HCG CAA.pdf)
+## [click here for HCG APPRAISAL] (/files/HCG CAA.pdf)
 
 ## APPENDICES. Click on any appendix below to view
 
