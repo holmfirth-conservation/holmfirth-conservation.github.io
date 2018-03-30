@@ -7,9 +7,6 @@ menu_position: 3
 
 ---
 
-## Who are we
-
-We are now a committee of eight people with different skills and experiences ranging from land science, history, education,architecture and town planning who came together as a group with the aim of working with the community to conduct an appraisal to preserve and enhance our conservation area. The officers of the committee are CHAIRPERSON: Anne Bacon,  SECRETARY: Deborah Wyles,  and TREASURER: Stephen Baggott. You can read their profiles and other committee member profiles [here](/files/Committeebiographies 7.pdf)
 
 ## Our constitution
 
