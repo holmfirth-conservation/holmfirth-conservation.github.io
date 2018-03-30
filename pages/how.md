@@ -37,7 +37,7 @@ menu_position: 3
 
 ## Newsletters
 
-* [February Newsletter 2018}(/files/February 2018 NewsletterV3.docx)
+* [February Newsletter 2018](/files/February 2018 NewsletterV3.docx)
 * [January Newsletter 2018](/files/January Newsletter.pdf)
 * [November Newsletter 2017](/files/November 2017-3.pdf)
 * [October Newsletter 2017](/files/October 2017 newsletter.pdf)
