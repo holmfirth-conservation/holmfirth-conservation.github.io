@@ -21,6 +21,7 @@ Firstly, we ask you to let us know by [email](mailto:Holmfirthconservation@outlo
 
 ## New Volunteering Opportunities
 
+* We are looking for people to form a strategy team for Phase 2 using the issues identified in the CAA to impement improvements in the town.
 * Someone to manage our facebook page
 * Someone to set up and manage a twitter account
 * Stewarding Public Meetings,
