@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who are the Holmfirth Conservation Group?
+title: About who are.
 permalink: /who-are-the-holmfirth-conservation-group/
 menu_title: Who?
 menu_position: 3
