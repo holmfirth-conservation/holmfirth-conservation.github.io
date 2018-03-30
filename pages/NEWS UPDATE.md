@@ -7,6 +7,9 @@ menu_position: 6
 
 ---
 
+## UPDATE March
+An Open meeting was held on the 29th March with the aim of attracting new members to form a strategy Team for Phase 2. If you are interested in being part of the team please contact us. (see contact page)
+
 ## UPDATE February
 The final version of the [HCG’s Conservation Area Appraisal](/Appraisal/) is now available online.  HCG has taken into account the feedback from previous questionnaires in conjunction with the feedback from the public consultation period that ran from 22nd January until 5th February.  
 Please look carefully at the issues because they will provide the inspiration for phase 2 of the HCG project.
