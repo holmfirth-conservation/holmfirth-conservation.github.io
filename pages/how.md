@@ -23,25 +23,17 @@ menu_position: 3
 * The Appraisal and Management plan will be available to the Parish Council, for inclusion in the  The Neighbourhood Plan for The Holme Valley
 
 ## Public Consultation
-* The public’s views will be collected from the meetings and from questionnaires and action points which will be prioritized by the community and members
+* The public’s views have been collected from the meetings and from questionnaires and action points which will be prioritized by the community and members
 * The action points will be used to create a wish list of improvements.
 
 ## The Appraisal
 * The draft appraisal is now avaiale to view online. Click [here](/Appraisal/) and be available for [comment on line](/contact-us)
-* The final appraisal together with the wish list will be available to the Parish Council for inclusion in the the Neighbourhood Plan being developed by Holme Valley Parish Council.
-* The appraisal will be presented to Kirklees council for adoption and to inform future planning. 
+* The appraisal is being used to inform the Neighbourhood Plan and will be included in it's entirety as an appendix. 
+* The appraisal has been presented to Kirklees council for adoption and to inform future planning. 
 * Holmfirth Conservation Group is willing to share its findings, experiences and assist other community groups engaged in Conservation Area Appraisals subject to licensing terms which can be viewed from the link at the bottom of each web page.
 * Public Consultation Meeting was held on 22nd November at The Old Bridge Inn, Holmfirth. The public’s views will inform the  draft CAA which will be sent to Kirklees for comment before the CAA is completed.  Kirklees should use the issues to produce a Management Plan for Holmfirth.  Internal investment in the town should lead to greater prosperity in the town, more local jobs, preservation of the historic buildings which represent more than 80% of Holmfirth’s built environment and enhancement of the public realm to boost the special interest of our Conservation Town and the Holme Valley.
 
 
-## Informing the Process
-
-* We have had meetings with [Hebden Bridge Partnership](http://hbpartnership.org.uk) whose history goes back to the 1960’s. With a wide membership and grant funding the partnership has achieved great things in preserving and enhancing the area.The partnership has been an inspiration to the group to press on in the face of many dead-ends.
-* We have studied online conservation appraisals by different authorities including a number previously undertaken by Kirklees and reviewed the guidance given by Historic England. We have met with Kirklees Planning Department and Holme Valley Parish Council to brief them on our progress.
-* A number of heritage organisations have been consulted including [Maintain Our Heritage](http://www.maintainourheritage.co.uk) who have been helpful when it has come to understanding the threats to the features of historic buildings. If funds become available HCG may organise a community training day led by Maintain Our Heritage.
-* Bradford City Council were particularly helpful in sharing with us how they conducted their appraisal of architectual authenticity. We have used their methodology and adapted it to suit our built environment.  Attribution to Bradford City Council has been and will be made at all times.
-* With regards to digital mapping – we have a highly regarded consultant with expertise in this field who is using GIS mapping software to provide a graphic interface for our data analysis. This consultant is also developing and hosting for two years an interactive website for HCG. As a result of his experiences we have the data for trees with a TPO which includes the species which has been entered onto GIS system saving a great deal of time on identification and mapping.
-* Historic England and Kirklees Planning Department have viewed our survey forms and with their encouragment, we are now ready to proceed. 
 
 ## Newsletters
 
