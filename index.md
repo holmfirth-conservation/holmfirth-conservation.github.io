@@ -33,5 +33,5 @@ conservation area in the beautiful Yorkshire town of Holmfirth.
 
 ## Can you help us?
 We want to link up with any local groups and any individuals who share some of our aims so please get in touch if you feel you are one of these.
-If you are interested in volunteering contact us [email](mailtoHolmfirthconservation@outlook.com)
+If you are interested in volunteering contact us [email](mailto:Holmfirthconservation@outlook.com)
 
