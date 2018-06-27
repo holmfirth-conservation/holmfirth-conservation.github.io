@@ -16,6 +16,7 @@ While we have been told the Appraisal makes an excellent read for anyone interes
 One of our main goals post appraisal is raise to raise awareness of the conservation issues, large and small, which affect the town.
 
 
+
 ## Actively supporting Your Valley Your Voice
 The Holme Valley Parish Council is currently working on its Neighbourhood Plan.  You can find out much more about it [here] 
 
@@ -30,4 +31,7 @@ conservation area in the beautiful Yorkshire town of Holmfirth.
 
 Here you'll find out [what a conservation area is](/what-is-holmfirth-conservation-area/), [why](/why-are-we-doing-this) we're doing an appraisal, [how](how) we're planning to carry it out, and [who](/who-are-the-holmfirth-conservation-group/) we are.
 
+## Can you help us?
+We want to link up with any local groups and any individuals who share some of our aims so please get in touch if you feel you are one of these.
+If you are interested in volunteering contact Holmfirthconservation@outlook.com
 
