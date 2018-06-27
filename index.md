@@ -5,6 +5,8 @@ menu_title: HCG
 image: holmfirth-view.jpg
 ---
 
+# NEXT STEPS
+
 Holmfirth Conservation Group is a group of local people working
 together to conduct an appraisal to preserve and enhance the
 conservation area in the beautiful Yorkshire town of Holmfirth.
