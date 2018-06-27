@@ -15,6 +15,7 @@ While we have been told the Appraisal makes an excellent read for anyone interes
 ## How can we help?
 One of our main goals post appraisal is raise to raise awareness of the conservation issues, large and small, which affect the town.
 
+
 ## Actively supporting Your Valley Your Voice
 The Holme Valley Parish Council is currently working on its Neighbourhood Plan.  You can find out much more about it [here] 
 
