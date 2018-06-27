@@ -5,7 +5,7 @@ menu_title: HCG
 image: holmfirth-view.jpg
 ---
 
-Last year we completed our Conservation Area Appraisal which can found here.
+Last year we completed our Conservation Area Appraisal which can found [here](/)
 
 A mammoth task to log and evaluate the current state of our beautiful town as Phase 1 of ensuring that we can keep in the style that we have all become accustomed.
 While we have been told the Appraisal makes an excellent read for anyone interested in the heritage, geography and current state of Holmfirth we are keen that this work becomes a living, breathing document and helps inform how the town is developed. 
