@@ -1,6 +1,6 @@
 ---
 layout: page-with-image
-title: Welcome to the Holmfirth Conservation Group website
+title: 
 menu_title: HCG
 image: holmfirth-view.jpg
 ---
