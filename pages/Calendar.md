@@ -8,7 +8,7 @@ menu_position: 8
 ---
 ## FORTHCOMING EVENT
 
-AGM 12th June 2018 where new committee will be voted in.
+
 
 
 
