@@ -26,12 +26,12 @@ PLEASE NOTE THE DEADLINE IS THE 27TH JULY 2018.
 
 This is the best way for you to have a say in the future of the Holme Valley.  Our Appraisal addresses many of the subjects that the survey covers.  If you would like some more of the background before you give your answers why not have a look at the Holmfirth Conservation Appraisal document [here](/Appraisal/)
 
-Holmfirth Conservation Group is a group of local people working together to conduct an appraisal to preserve and enhance the
+Holmfirth Conservation Group is a group of local people working together to conduct a conservation appraisal to preserve and enhance the
 conservation area in the beautiful Yorkshire town of Holmfirth.
 
-Here you'll find out [what a conservation area is](/what-is-holmfirth-conservation-area/), [why](/why-are-we-doing-this) we're doing an appraisal, [how](how) we're planning to carry it out, and [who](/who-are-the-holmfirth-conservation-group/) we are.
+
 
 ## Can you help us?
 We want to link up with any local groups and any individuals who share some of our aims so please get in touch if you feel you are one of these.
-If you are interested in volunteering contact Holmfirthconservation@outlook.com
+If you are interested in volunteering [contact](mailtoHolmfirthconservation@outlook.com)
 
