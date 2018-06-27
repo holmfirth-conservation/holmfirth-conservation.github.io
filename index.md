@@ -1,6 +1,6 @@
 ---
 layout: page-with-image
-title: 
+title: Next Steps
 menu_title: HCG
 image: holmfirth-view.jpg
 ---
