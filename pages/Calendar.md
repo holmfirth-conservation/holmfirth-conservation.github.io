@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Calendar
-permalink: /Calendar
-menu_title: Calendar
+title: Next Steps
+permalink: /Next Steps
+menu_title: Next Steps
 menu_position: 8
 
 ---
