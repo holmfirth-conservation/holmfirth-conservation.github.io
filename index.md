@@ -24,7 +24,7 @@ We strongly urge you to take part in the public consultation that is currently u
 
 PLEASE NOTE THE DEADLINE IS THE 27TH JULY 2018.  
 
-This is the best way for you to have a say in the future of the Holme Valley.  Our Appraisal addresses many of the subjects that the survey covers.  If you would like some more of the background before you give your answers why not have a look at the Holmfirth Conservation Appraisal document [here]
+This is the best way for you to have a say in the future of the Holme Valley.  Our Appraisal addresses many of the subjects that the survey covers.  If you would like some more of the background before you give your answers why not have a look at the Holmfirth Conservation Appraisal document [here](/Appraisal/)
 
 Holmfirth Conservation Group is a group of local people working together to conduct an appraisal to preserve and enhance the
 conservation area in the beautiful Yorkshire town of Holmfirth.
