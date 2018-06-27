@@ -5,6 +5,7 @@ menu_title: HCG
 image: holmfirth-view.jpg
 ---
 
+
 Last year we completed our Conservation Area Appraisal which can found [here](/Appraisal/)
 
 A mammoth task to log and evaluate the current state of our beautiful town as Phase 1 of ensuring that we can keep in the style that we have all become accustomed.
@@ -19,7 +20,7 @@ One of our main goals post appraisal is raise to raise awareness of the conserva
 ## Actively supporting Your Valley Your Voice
 The Holme Valley Parish Council is currently working on its Neighbourhood Plan.  You can find out much more about it [here]( https://www.holmevalleyparishcouncil.gov.uk/np/)
 
-We strongly urge you to take part in the public consultation that is currently underway by filling in the questionnaire [at]
+We strongly urge you to take part in the public consultation that is currently underway by filling in the questionnaire [at](https://www.surveymonkey.co.uk/r/holmevalleyndp)
 
 PLEASE NOTE THE DEADLINE IS THE 27TH JULY 2018.  
 
