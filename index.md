@@ -1,35 +1,44 @@
 ---
 layout: page-with-image
-title: Next Steps
+title: PUBLIC CONSULTATION - IMMEDIATE PRIORITY
 menu_title: HCG
 image: holmfirth-view.jpg
 ---
-## THE ANNUAL GENERAL MEETING OF HCG 7PM October 3rd 2018
-AT THE FORMER HOLMFIRTH TECHNICAL INSTITUTE
-HUDDERSFIELD ROAD,  HOLMFIRTH
+## HOLMFIRTH TOWN CENTRE ACCESS PLAN
+CONSULTATION ENDS 5TH APRIL-MAKE YOUR VIEWS KNOWN ASAP
 
-Everybody is welcome to join us to find out what we’re hoping to achieve in phase two of our activities.
+More info and response forms can be found on [West Yorkshire Combined Authority Website](https://www.yourvoice.westyorks-ca.gov.uk/holmfirth?fbclid=IwAR1QAZcw17ELLEPF6i-i0BCZpniIc9-B4xvjiJkH7WKk4wAKcArd1cuXf5E)
 
-We’re starting at 7pm with Andrew Sanderson, a well-regarded local photographer, taking us through some of his work that celebrates Holmfirth in pictures. You can find out more about his work here https://www.andrewsanderson.com/index.php
+It will come as no surprise to anybody that our current area of focus is understanding and reacting to the proposals that Kirklees Council have on the table to "IMPROVE" the major roads through Holmfirth.
 
-Following that Steve Davie of Phase 2 of the HCG project will lead a discussion on how we can all help to “To conserve and enhance Holmfirth”.  There are some hot topics so it promises to be an interesting meeting!
+We remain to be convinced that these improvements will be that so these are the sorts of questions we want answers to.
 
-The formal AGM will be very short and take place at the end so no need to stay but we are very happy if you want to. We are keen for new people to help us with our future plans so see how you can get more involved below.
+1. Just what is the ‘traffic congestion problem’ in Holmfirth, is it significantly worse than other junctions - and does this plan resolve it?
 
-## Calling All Members...
+2. Is this an Access Plan for cars, lorries, pedestrians, visitors or residents? How are these different users prioritised?
 
-Can you confirm that you still want to be a member by 14th September please.
+3. How does the Plan show consideration for Holmfirth as an important Conservation Area, currently labelled as ‘At Risk’ by Historic England?
 
-All recipients of our newsletters are entitled to be members but it is important we have formal confirmation. If you wish to be a member please email Holmfirthconservation@outlook.com and write “confirm membership” in the subject line.
+4. How does the Plan help the 175 businesses within the centre of Holmfirth, the many visitors to Festivals, the night-time economy and residents? i.e. is this a Plan for Holmfirth as a destination or as a junction?
 
-You do not need to be a member to receive the newsletter in which case you need do nothing. If you no longer wish to receive the newsletter just click unsubscribe.
+5. If the traffic lights are removed, how will pedestrians – the disabled, the elderly, buggies, the mobile – move around?
 
-## ...and any would be trustees
+6. What will be the impact of the proposed bridge on the pleasantly traditional Hollowgate? How would you use Hollowgate as a pedestrian or driver? What will be the impact on businesses?
 
-NOMINATIONS FOR ELECTION are needed by 18th September
+7. Will the construction of a new bridge encourage more traffic through Holmfirth?
 
-Should you wish to nominate a trustee or stand yourself, please write to Holmfirthconservation@outlook.com and give us a brief background.  The trustees standing for re-election are Steve Ransby and Anne Bacon and nominees received to date, who wish to stand for election, are Steve Davie and Tony Booth.  
+8. Could a better through-flow of traffic be enabled by enforcement of parking restrictions in addition to the suggested improvements to Victoria Street and Towngate, without the new bridge and the one-way system?
 
+9. Could artics and buses turn off the new bridge if there are traffic queues towards Huddersfield? Does this Plan help artics and buses to turn right onto Victoria Street? What about cars coming from the car-parks?
+
+10. Is this Plan a sledgehammer to crack a nut? Will it improve the environment and values of Holmfirth? Could our problems be solved more easily and with less disruption?
+
+## Dates for Public drop-in session at Holmfirth Civic Hall
+
+14 March 2019
+19 March 2019
+
+Please keep checking back here and on our Facebook page for news of additional meetings to discuss this and help us lobby for the best solution for Holmfirth
 
 ## About Us In Brief
 Last year we completed our Conservation Area Appraisal which can be found [here](/Appraisal/) 
