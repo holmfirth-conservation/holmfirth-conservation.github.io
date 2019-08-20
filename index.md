@@ -43,7 +43,7 @@ Nomination for persons standing for re-election and election as Trustees of HCG 
 
 ## HOLMFIRTH TOWN CENTRE ACCESS PLAN - RESULTS OF PUBLIC CONSULTATION
 
-After an unprecedented repsonse to the public consultation that ended on 5th April the scheme as presented has been shelved. Well done to all who took the time to make their feelings known - you were heard!
+After an unprecedented response to the public consultation that ended on 5th April the scheme as presented has been shelved. Well done to all who took the time to make their feelings known - you were heard!
 
 Below is some further information on the outcomes and rest assured we will be keeping a close eye on any new proposals that are forthcoming.
 
