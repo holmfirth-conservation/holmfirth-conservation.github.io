@@ -4,41 +4,49 @@ title: PUBLIC CONSULTATION - IMMEDIATE PRIORITY
 menu_title: HCG
 image: holmfirth-view.jpg
 ---
-## HOLMFIRTH TOWN CENTRE ACCESS PLAN
-CONSULTATION ENDS 5TH APRIL-MAKE YOUR VIEWS KNOWN ASAP
 
-More info and response forms can be found on [West Yorkshire Combined Authority Website](https://www.yourvoice.westyorks-ca.gov.uk/holmfirth?fbclid=IwAR1QAZcw17ELLEPF6i-i0BCZpniIc9-B4xvjiJkH7WKk4wAKcArd1cuXf5E)
+## AGM SEPTEMBER 10TH 2019 - 7PM - HOLMFIRTH TECH
 
-It will come as no surprise to anybody that our current area of focus is understanding and reacting to the proposals that Kirklees Council have on the table to "IMPROVE" the major roads through Holmfirth.
+We are pleased to share details of our forthcoming AGM - all are welcome
 
-We remain to be convinced that these improvements will be that so these are the sorts of questions we want answers to.
+## Conservation Group Meeting Speaker: Cllr Rachael Hogley: The Holme Valley Neighbourhood Plan 
 
-1. Just what is the ‘traffic congestion problem’ in Holmfirth, is it significantly worse than other junctions - and does this plan resolve it?
+Rachael has been chairing the group that has been formulating the Neighbourhood Plan on behalf of the Parish Council, part of the Planning framework for the area. The Draft Neighbourhood Plan has been a valuable document in understanding local approaches to policy and was a key component in drawing up a response to the Access Plan, published in March and now withdrawn. 
 
-2. Is this an Access Plan for cars, lorries, pedestrians, visitors or residents? How are these different users prioritised?
+AGM 
+1. Welcome and circulated list of Attendance and Apologies 
+2. Report of Trustees for 2018/19 and questions 
+3. Report of Annual Accounts for 2018/19 and questions. Accounts are to be accepted by the meeting 
+4. Appointment of Trustees for 2019 
+5. Confirmation of Membership of the Management Committee for 2019 Steve Davie [Chair], Steve Ransby, Julia Brown, Stan Driver, Peter Hibbard 
 
-3. How does the Plan show consideration for Holmfirth as an important Conservation Area, currently labelled as ‘At Risk’ by Historic England?
+Nomination for persons standing for re-election and election as Trustees of HCG for year 2019-20 
 
-4. How does the Plan help the 175 businesses within the centre of Holmfirth, the many visitors to Festivals, the night-time economy and residents? i.e. is this a Plan for Holmfirth as a destination or as a junction?
+*Tony Booth, Company Director (Retired), leading on project management, experienced trustee of other community boards
 
-5. If the traffic lights are removed, how will pedestrians – the disabled, the elderly, buggies, the mobile – move around?
+*Stan Driver, former Town Planner and Conservation Officer, Member of the Royal Town Planning Institute (MRTPI) since 1965. Retired member of the Institute of Historic Building Conservation
 
-6. What will be the impact of the proposed bridge on the pleasantly traditional Hollowgate? How would you use Hollowgate as a pedestrian or driver? What will be the impact on businesses?
+*Steve Davie, Canon Emeritus of Bradford Cathedral – former Town Planner Nomination for Trustee and Chair of the Management Committee of HCG 
 
-7. Will the construction of a new bridge encourage more traffic through Holmfirth?
+*Steve Ransby, former Town Planner and Conservation Officer
 
-8. Could a better through-flow of traffic be enabled by enforcement of parking restrictions in addition to the suggested improvements to Victoria Street and Towngate, without the new bridge and the one-way system?
+*Nomination as new Trustee: Peter Hibbard, MBE, historian and author, began studying the development of the Chinese tourism industry in 1983 and was a Visiting Scholar at Hong Kong University’s Centre of Asian Studies in 1985. He was founding president of Royal Asiatic Society [RAS] in China and a recent speaker at the London RAS. Peter is currently the Heritage and Archive Ambassador of The Peninsula Hotel, Hong Kong
 
-9. Could artics and buses turn off the new bridge if there are traffic queues towards Huddersfield? Does this Plan help artics and buses to turn right onto Victoria Street? What about cars coming from the car-parks?
+## HOLMFIRTH TOWN CENTRE ACCESS PLAN - RESULTS OF PUBLIC CONSULTATION
 
-10. Is this Plan a sledgehammer to crack a nut? Will it improve the environment and values of Holmfirth? Could our problems be solved more easily and with less disruption?
+After an unprecedented repsonse to the public consultation that ended on 5th April the scheme as presented has been shelved. Well done to all who took the time to make their feelings known - you were heard!
 
-## Dates for Public drop-in session at Holmfirth Civic Hall
+Below is some further information on the outcomes and rest assured we will be keeping a close eye on any new proposals that are forthcoming.
 
-14 March 2019
-19 March 2019
-
-Please keep checking back here and on our Facebook page for news of additional meetings to discuss this and help us lobby for the best solution for Holmfirth
+## Headline Results
+Overall the majority of respondents did not agree that the preferred town centre access plan proposal would achieve the aims:
+Four fifths of respondents disagreed (81.3%)
+Out of this, the highest proportion strongly disagreed (61%)
+Only around a tenth of respondents agreed (13%)
+## Conclusion
+Without the backing of local residents and businesses clearly there is no possibility of delivering the Holmfirth Town Centre Access Plan in its current format. Having listened to the issues raised at the engagement events, a different scheme which would still reduce journey times and increase capacity, alongside improvements to public realm and the aspirations of the Neighbourhood Plan is being developed. 
+## Next Steps
+As a result of the outcome of the public consultation Kirklees Council will reconsider the plans for Holmfirth. A revised scheme is being developed, informed by responses received. Revised plans will be published at the earliest opportunity.
 
 ## About Us In Brief
 Last year we completed our Conservation Area Appraisal which can be found [here](/Appraisal/) 
