@@ -7,7 +7,9 @@ image: holmfirth-view.jpg
 
 We are pleased to share details of our forthcoming AGM - all are welcome
 
-## Conservation Group Meeting Speaker: Cllr Rachael Hogley: The Holme Valley Neighbourhood Plan 
+## Conservation Group Meeting Speaker: Cllr Rachael Hogley
+
+## The Holme Valley Neighbourhood Plan 
 
 Rachael has been chairing the group that has been formulating the Neighbourhood Plan on behalf of the Parish Council, part of the Planning framework for the area. 
 
