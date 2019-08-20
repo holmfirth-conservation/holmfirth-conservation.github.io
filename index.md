@@ -1,11 +1,9 @@
 ---
 layout: page-with-image
-title: PUBLIC CONSULTATION - IMMEDIATE PRIORITY
+title: AGM SEPTEMBER 10TH 2019 - 7PM - HOLMFIRTH TECH
 menu_title: HCG
 image: holmfirth-view.jpg
 ---
-
-## AGM SEPTEMBER 10TH 2019 - 7PM - HOLMFIRTH TECH
 
 We are pleased to share details of our forthcoming AGM - all are welcome
 
