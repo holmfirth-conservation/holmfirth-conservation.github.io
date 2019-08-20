@@ -11,7 +11,8 @@ We are pleased to share details of our forthcoming AGM - all are welcome
 
 Rachael has been chairing the group that has been formulating the Neighbourhood Plan on behalf of the Parish Council, part of the Planning framework for the area. The Draft Neighbourhood Plan has been a valuable document in understanding local approaches to policy and was a key component in drawing up a response to the Access Plan, published in March and now withdrawn. 
 
-AGM 
+AGM
+
 1. Welcome and circulated list of Attendance and Apologies 
 2. Report of Trustees for 2018/19 and questions 
 3. Report of Annual Accounts for 2018/19 and questions. Accounts are to be accepted by the meeting 
